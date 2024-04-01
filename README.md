@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Time you enjoy wasting, was not wasted. "</i></h5>**
+**<h5><i>" All wisdom does not reside in Delhi. "</i></h5>**
 
-*<b>___ John Lennon ___</b>*
+*<b>___ P. Chidambaram ___</b>*
