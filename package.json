@@ -1,0 +1,14 @@
+{
+  "name": "readme.md",
+  "version": "1.0.0",
+  "description": "<h1 title=\"head\"> Hey 👋, I'm Endale !</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-unfetch": "^4.0.2"
+  }
+}
