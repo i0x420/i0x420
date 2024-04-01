@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When the solution is simple, God is answering. "</i></h5>**
+**<h5><i>" Subdue your appetites, my dears, and you've conquered human nature. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Charles Dickens ___</b>*
