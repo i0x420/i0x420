@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Discipline is the bridge between goals and accomplishment. "</i></h5>**
+**<h5><i>" In all things of nature there is something of the marvelous. "</i></h5>**
 
-*<b>___ Jim Rohn ___</b>*
+*<b>___ Aristotle ___</b>*
