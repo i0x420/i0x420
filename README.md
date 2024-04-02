@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" No man can succeed in a line of endeavor which he does not like. "</i></h5>**
+**<h5><i>" He who lives in harmony with himself lives in harmony with the universe. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Marcus Aurelius ___</b>*
