@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I want my friend to miss me as long as I miss him. "</i></h5>**
+**<h5><i>" If the stars should appear but one night every thousand years how man would marvel and adore. "</i></h5>**
 
-*<b>___ Augustine of Hippo ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
