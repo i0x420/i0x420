@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things. "</i></h5>**
+**<h5><i>" Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Wayne Dyer ___</b>*
