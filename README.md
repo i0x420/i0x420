@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It's not what happens to you, but how you react to it that matters. "</i></h5>**
+**<h5><i>" It always seems impossible until it's done. "</i></h5>**
 
-*<b>___ Epictetus ___</b>*
+*<b>___ Nelson Mandela ___</b>*
