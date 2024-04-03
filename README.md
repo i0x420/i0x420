@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To keep your secret is wisdom; but to expect others to keep it is folly. "</i></h5>**
+**<h5><i>" Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either. "</i></h5>**
 
-*<b>___ Samuel Johnson ___</b>*
+*<b>___ Albert Einstein ___</b>*
