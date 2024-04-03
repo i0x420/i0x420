@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Obstacles are those frightful things you see when you take your eyes off your goal. "</i></h5>**
+**<h5><i>" Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts. "</i></h5>**
 
-*<b>___ Henry Ford ___</b>*
+*<b>___ Dan Gable ___</b>*
