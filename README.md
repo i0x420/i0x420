@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps. "</i></h5>**
+**<h5><i>" The truth is not for all men, but only for those who seek it. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Ayn Rand ___</b>*
