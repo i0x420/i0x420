@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Between saying and doing, many a pair of shoes is worn out. "</i></h5>**
+**<h5><i>" To keep your secret is wisdom; but to expect others to keep it is folly. "</i></h5>**
 
-*<b>___ Iris Murdoch ___</b>*
+*<b>___ Samuel Johnson ___</b>*
