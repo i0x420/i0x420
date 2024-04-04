@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you love life, don't waste time, for time is what life is made up of. "</i></h5>**
+**<h5><i>" Many of life's failures are people who did not realize how close they were to success when they gave up. "</i></h5>**
 
-*<b>___ Bruce Lee ___</b>*
+*<b>___ Thomas Edison ___</b>*
