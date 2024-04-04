@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Much wisdom often goes with fewest words. "</i></h5>**
+**<h5><i>" As we are liberated from our own fear, our presence automatically liberates others. "</i></h5>**
 
-*<b>___ Sophocles ___</b>*
+*<b>___ Nelson Mandela ___</b>*
