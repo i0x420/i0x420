@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To succeed, we must first believe that we can. "</i></h5>**
+**<h5><i>" Time you enjoy wasting, was not wasted. "</i></h5>**
 
-*<b>___ Michael Korda ___</b>*
+*<b>___ John Lennon ___</b>*
