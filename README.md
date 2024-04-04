@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The bird of paradise alights only upon the hand that does not grasp. "</i></h5>**
+**<h5><i>" The great myth of our times is that technology is communication. "</i></h5>**
 
-*<b>___ John Berry ___</b>*
+*<b>___ Libby Larsen ___</b>*
