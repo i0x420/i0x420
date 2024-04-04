@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition. "</i></h5>**
+**<h5><i>" The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly. "</i></h5>**
 
-*<b>___ Ralph Abernathy ___</b>*
+*<b>___ Richard Bach ___</b>*
