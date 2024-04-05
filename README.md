@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious. "</i></h5>**
+**<h5><i>" When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it. "</i></h5>**
 
-*<b>___ Thomas Aquinas ___</b>*
+*<b>___ A. Powell Davies ___</b>*
