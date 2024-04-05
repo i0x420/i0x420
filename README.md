@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The least of things with a meaning is worth more in life than the greatest of things without it. "</i></h5>**
+**<h5><i>" If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair. "</i></h5>**
 
-*<b>___ Carl Jung ___</b>*
+*<b>___ Samuel Johnson ___</b>*
