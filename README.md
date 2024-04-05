@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain. "</i></h5>**
+**<h5><i>" I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing. "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ Michel de Montaigne ___</b>*
