@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is not so much our friends' help that helps us, as the confidence of their help. "</i></h5>**
+**<h5><i>" Success is not final; failure is not fatal: it is the courage to continue that counts. "</i></h5>**
 
-*<b>___ Epicurus ___</b>*
+*<b>___ Winston Churchill ___</b>*
