@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto. "</i></h5>**
+**<h5><i>" Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born. "</i></h5>**
 
-*<b>___ W. Clement Stone ___</b>*
+*<b>___ Anaïs Nin ___</b>*
