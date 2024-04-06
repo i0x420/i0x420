@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Today you are you! That is truer than true! There is no one alive who is you-er than you! "</i></h5>**
+**<h5><i>" I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do. "</i></h5>**
 
-*<b>___ Dr. Seuss ___</b>*
+*<b>___ Leonardo da Vinci ___</b>*
