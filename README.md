@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. "</i></h5>**
+**<h5><i>" Kind words can be short and easy to speak, but their echoes are truly endless. "</i></h5>**
 
-*<b>___ Melody Beattie ___</b>*
+*<b>___ Mother Teresa ___</b>*
