@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You can't stop the waves, but you can learn to surf. "</i></h5>**
+**<h5><i>" Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. "</i></h5>**
 
-*<b>___ Jon Kabat-Zinn ___</b>*
+*<b>___ Laozi ___</b>*
