@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Science is organized knowledge. Wisdom is organized life. "</i></h5>**
+**<h5><i>" Life is like riding a bicycle. To keep your balance you must keep moving. "</i></h5>**
 
-*<b>___ Immanuel Kant ___</b>*
+*<b>___ Albert Einstein ___</b>*
