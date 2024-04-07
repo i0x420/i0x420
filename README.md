@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself. "</i></h5>**
+**<h5><i>" When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way. "</i></h5>**
 
-*<b>___ Henry Miller ___</b>*
+*<b>___ Morihei Ueshiba ___</b>*
