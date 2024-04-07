@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The pine stays green in winter... wisdom in hardship. "</i></h5>**
+**<h5><i>" Let the beauty of what you love be what you do. "</i></h5>**
 
-*<b>___ Norman Douglas ___</b>*
+*<b>___ Rumi ___</b>*
