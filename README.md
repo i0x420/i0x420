@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich. "</i></h5>**
+**<h5><i>" It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own. "</i></h5>**
 
-*<b>___ Muhammad Ali ___</b>*
+*<b>___ Jessamyn West ___</b>*
