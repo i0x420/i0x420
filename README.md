@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" And as we let our own light shine, we unconsciously give other people permission to do the same. "</i></h5>**
+**<h5><i>" The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime. "</i></h5>**
 
-*<b>___ Nelson Mandela ___</b>*
+*<b>___ Babe Ruth ___</b>*
