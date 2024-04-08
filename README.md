@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I believe that we are fundamentally the same and have the same basic potential. "</i></h5>**
+**<h5><i>" Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Melody Beattie ___</b>*
