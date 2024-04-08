@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The key is to keep company only with people who uplift you, whose presence calls forth your best. "</i></h5>**
+**<h5><i>" Action is the foundational key to all success. "</i></h5>**
 
-*<b>___ Epictetus ___</b>*
+*<b>___ Pablo Picasso ___</b>*
