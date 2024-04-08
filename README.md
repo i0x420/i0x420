@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" What other people may find in poetry or art museums, I find in the flight of a good drive. "</i></h5>**
+**<h5><i>" An organization, no matter how well designed, is only as good as the people who live and work in it. "</i></h5>**
 
-*<b>___ Arnold Palmer ___</b>*
+*<b>___ Dee Hock ___</b>*
