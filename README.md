@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Kind words do not cost much. Yet they accomplish much. "</i></h5>**
+**<h5><i>" The art of progress is to preserve order amid change, and to preserve change amid order. "</i></h5>**
 
-*<b>___ Blaise Pascal ___</b>*
+*<b>___ Alfred North Whitehead ___</b>*
