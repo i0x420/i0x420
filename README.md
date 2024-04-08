@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it. "</i></h5>**
+**<h5><i>" Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom. "</i></h5>**
 
-*<b>___ W. Clement Stone ___</b>*
+*<b>___ Rumi ___</b>*
