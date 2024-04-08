@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed. "</i></h5>**
+**<h5><i>" If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion. "</i></h5>**
 
-*<b>___ Blaise Pascal ___</b>*
+*<b>___ Elon Musk ___</b>*
