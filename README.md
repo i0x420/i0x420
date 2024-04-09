@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Happiness is found in doing, not merely possessing. "</i></h5>**
+**<h5><i>" Choose a job you love, and you will never have to work a day in your life. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Confucius ___</b>*
