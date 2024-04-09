@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Excellence is to do a common thing in an uncommon way. "</i></h5>**
+**<h5><i>" I think somehow, we learn who we really are and then live with that decision. "</i></h5>**
 
-*<b>___ Booker T. Washington ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
