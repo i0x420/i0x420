@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I think somehow, we learn who we really are and then live with that decision. "</i></h5>**
+**<h5><i>" Start with what is right rather than what is acceptable. "</i></h5>**
 
-*<b>___ Eleanor Roosevelt ___</b>*
+*<b>___ Franz Kafka ___</b>*
