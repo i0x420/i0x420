@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish. "</i></h5>**
+**<h5><i>" Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values. "</i></h5>**
 
-*<b>___ John Adams ___</b>*
+*<b>___ Sidney Hook ___</b>*
