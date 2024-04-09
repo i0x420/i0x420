@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The exercise of an extraordinary gift is the supremist pleasure in life. "</i></h5>**
+**<h5><i>" Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish. "</i></h5>**
 
-*<b>___ Mark Twain ___</b>*
+*<b>___ John Adams ___</b>*
