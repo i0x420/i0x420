@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Good luck is another name for tenacity of purpose. "</i></h5>**
+**<h5><i>" Give me a lever long enough and a fulcrum on which to place it, and I shall move the world. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Archimedes ___</b>*
