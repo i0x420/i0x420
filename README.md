@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Our most intimate friend is not he to whom we show the worst, but the best of our nature. "</i></h5>**
+**<h5><i>" I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain. "</i></h5>**
 
-*<b>___ Nathaniel Hawthorne ___</b>*
+*<b>___ Oprah Winfrey ___</b>*
