@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others. "</i></h5>**
+**<h5><i>" Don't leave a stone unturned. It's always something, to know you have done the most you could. "</i></h5>**
 
-*<b>___ Anne Lindbergh ___</b>*
+*<b>___ Charles Dickens ___</b>*
