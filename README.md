@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Start with what is right rather than what is acceptable. "</i></h5>**
+**<h5><i>" Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life. "</i></h5>**
 
-*<b>___ Franz Kafka ___</b>*
+*<b>___ Hermann Hesse ___</b>*
