@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Trust is the lubrication that makes it possible for organizations to work. "</i></h5>**
+**<h5><i>" Those who dream by day are cognizant of many things which escape those who dream only by night. "</i></h5>**
 
-*<b>___ Warren Bennis ___</b>*
+*<b>___ Edgar Allan Poe ___</b>*
