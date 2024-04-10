@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Learning without reflection is a waste, reflection without learning is dangerous. "</i></h5>**
+**<h5><i>" You can observe a lot just by watching. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Yogi Berra ___</b>*
