@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Where there is charity and wisdom, there is neither fear nor ignorance. "</i></h5>**
+**<h5><i>" The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty. "</i></h5>**
 
-*<b>___ Francis of Assisi ___</b>*
+*<b>___ Winston Churchill ___</b>*
