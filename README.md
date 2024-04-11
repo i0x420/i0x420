@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Wise men make more opportunities than they find. "</i></h5>**
+**<h5><i>" I begin with an idea and then it becomes something else. "</i></h5>**
 
-*<b>___ Francis Bacon ___</b>*
+*<b>___ Pablo Picasso ___</b>*
