@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Positive thinking will let you do everything better than negative thinking will. "</i></h5>**
+**<h5><i>" The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it. "</i></h5>**
 
-*<b>___ Zig Ziglar ___</b>*
+*<b>___ Reinhold Niebuhr ___</b>*
