@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Forgiveness is choosing to love. It is the first skill of self-giving love. "</i></h5>**
+**<h5><i>" There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered. "</i></h5>**
 
-*<b>___ Mahatma Gandhi ___</b>*
+*<b>___ Nelson Mandela ___</b>*
