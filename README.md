@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Imagination is the living power and prime agent of all human perception. "</i></h5>**
+**<h5><i>" Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius. "</i></h5>**
 
-*<b>___ Samuel Taylor Coleridge ___</b>*
+*<b>___ Wolfgang Amadeus Mozart ___</b>*
