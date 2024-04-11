@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A creative man is motivated by the desire to achieve, not by the desire to beat others. "</i></h5>**
+**<h5><i>" Argue for your limitations, and sure enough they're yours. "</i></h5>**
 
-*<b>___ Ayn Rand ___</b>*
+*<b>___ Richard Bach ___</b>*
