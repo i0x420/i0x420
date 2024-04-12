@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Meetings are indispensable when you don't want to do anything. "</i></h5>**
+**<h5><i>" Be faithful in small things because it is in them that your strength lies. "</i></h5>**
 
-*<b>___ John Kenneth Galbraith ___</b>*
+*<b>___ Mother Teresa ___</b>*
