@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Three things cannot be long hidden: the sun, the moon, and the truth. "</i></h5>**
+**<h5><i>" I never did anything worth doing by accident, nor did any of my inventions come by accident "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Thomas Edison ___</b>*
