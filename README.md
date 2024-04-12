@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The power of intuitive understanding will protect you from harm until the end of your days. "</i></h5>**
+**<h5><i>" If the stars should appear but one night every thousand years how man would marvel and adore. "</i></h5>**
 
-*<b>___ Laozi ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
