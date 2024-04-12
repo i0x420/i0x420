@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All this worldly wisdom was once the unamiable heresy of some wise man. "</i></h5>**
+**<h5><i>" On every thorn, delightful wisdom grows, in every rill a sweet instruction flows. "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ Edward Young ___</b>*
