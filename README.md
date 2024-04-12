@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Things turn out best for those who make the best of the way things turn out. "</i></h5>**
+**<h5><i>" A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. "</i></h5>**
 
-*<b>___ Jack Buck ___</b>*
+*<b>___ Laozi ___</b>*
