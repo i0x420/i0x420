@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you don't like something, change it. If you can't change it, change your attitude. "</i></h5>**
+**<h5><i>" We are what we repeatedly do. Excellence, then, is not an act, but a habit. "</i></h5>**
 
-*<b>___ Maya Angelou ___</b>*
+*<b>___ Aristotle ___</b>*
