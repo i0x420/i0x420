@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Fans don't boo nobodies. "</i></h5>**
+**<h5><i>" I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match. "</i></h5>**
 
-*<b>___ Reggie Jackson (basketball, born 1990) ___</b>*
+*<b>___ Mia Hamm ___</b>*
