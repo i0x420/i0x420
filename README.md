@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There are many ways of going forward, but only one way of standing still. "</i></h5>**
+**<h5><i>" If you don't like something, change it. If you can't change it, change your attitude. "</i></h5>**
 
-*<b>___ Franklin D. Roosevelt ___</b>*
+*<b>___ Maya Angelou ___</b>*
