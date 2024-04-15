@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Opportunity is missed by most because it is dressed in overalls and looks like work. "</i></h5>**
+**<h5><i>" We are not animals. We are not a product of what has happened to us in our past. We have the power of choice. "</i></h5>**
 
-*<b>___ Thomas Edison ___</b>*
+*<b>___ Stephen Covey ___</b>*
