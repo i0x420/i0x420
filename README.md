@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Time changes everything except something within us which is always surprised by change. "</i></h5>**
+**<h5><i>" Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it. "</i></h5>**
 
-*<b>___ Thomas Hardy ___</b>*
+*<b>___ Lou Holtz ___</b>*
