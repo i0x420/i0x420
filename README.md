@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All achievements, all earned riches, have their beginning in an idea. "</i></h5>**
+**<h5><i>" Habit, if not resisted, soon becomes necessity. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Augustine of Hippo ___</b>*
