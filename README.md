@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest. "</i></h5>**
+**<h5><i>" Think for yourselves and let others enjoy the privilege to do so too. "</i></h5>**
 
-*<b>___ Sri Chinmoy ___</b>*
+*<b>___ Voltaire ___</b>*
