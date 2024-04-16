@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If it is not right do not do it; if it is not true do not say it. "</i></h5>**
+**<h5><i>" An appeaser is one who feeds a crocodile, hoping it will eat him last. "</i></h5>**
 
-*<b>___ Marcus Aurelius ___</b>*
+*<b>___ Winston Churchill ___</b>*
