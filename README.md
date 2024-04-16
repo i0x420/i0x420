@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Positive thinking will let you do everything better than negative thinking will. "</i></h5>**
+**<h5><i>" I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over. "</i></h5>**
 
-*<b>___ Zig Ziglar ___</b>*
+*<b>___ Warren Buffett ___</b>*
