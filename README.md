@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All our dreams can come true, if we have the courage to pursue them. "</i></h5>**
+**<h5><i>" Positive thinking will let you do everything better than negative thinking will. "</i></h5>**
 
-*<b>___ Walt Disney ___</b>*
+*<b>___ Zig Ziglar ___</b>*
