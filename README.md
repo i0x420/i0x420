@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over. "</i></h5>**
+**<h5><i>" Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one. "</i></h5>**
 
-*<b>___ Warren Buffett ___</b>*
+*<b>___ Oscar Wilde ___</b>*
