@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill. "</i></h5>**
+**<h5><i>" Those who dare to fail miserably can achieve greatly. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ John F. Kennedy ___</b>*
