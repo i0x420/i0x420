@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Habit, if not resisted, soon becomes necessity. "</i></h5>**
+**<h5><i>" It has been my experience that folks who have no vices have very few virtues. "</i></h5>**
 
-*<b>___ Augustine of Hippo ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
