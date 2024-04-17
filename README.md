@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The greatest minds are capable of the greatest vices as well as of the greatest virtues. "</i></h5>**
+**<h5><i>" Do not go where the path may lead, go instead where there is no path and leave a trail. "</i></h5>**
 
-*<b>___ René Descartes ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
