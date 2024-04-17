@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Do not go where the path may lead, go instead where there is no path and leave a trail. "</i></h5>**
+**<h5><i>" If you want your life to be more rewarding, you have to change the way you think. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Oprah Winfrey ___</b>*
