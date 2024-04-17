@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The more man meditates upon good thoughts, the better will be his world and the world at large. "</i></h5>**
+**<h5><i>" Beauty is not in the face; beauty is a light in the heart. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Kahlil Gibran ___</b>*
