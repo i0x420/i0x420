@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Eighty percent of success is showing up. "</i></h5>**
+**<h5><i>" There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking. "</i></h5>**
 
-*<b>___ Woody Allen ___</b>*
+*<b>___ Alfred Korzybski ___</b>*
