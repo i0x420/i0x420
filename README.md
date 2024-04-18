@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability. "</i></h5>**
+**<h5><i>" The more light you allow within you, the brighter the world you live in will be. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Shakti Gawain ___</b>*
