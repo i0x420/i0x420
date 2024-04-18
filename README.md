@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All human wisdom is summed up in two words; wait and hope. "</i></h5>**
+**<h5><i>" I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability. "</i></h5>**
 
-*<b>___ Alexandre Dumas ___</b>*
+*<b>___ Confucius ___</b>*
