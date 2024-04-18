@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns. "</i></h5>**
+**<h5><i>" How far that little candle throws its beams! So shines a good deed in a naughty world. "</i></h5>**
 
-*<b>___ Bruce Lee ___</b>*
+*<b>___ William Shakespeare ___</b>*
