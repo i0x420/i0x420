@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world. "</i></h5>**
+**<h5><i>" Start where you are. Use what you have. Do what you can. "</i></h5>**
 
-*<b>___ Hannah Szenes ___</b>*
+*<b>___ Arthur Ashe ___</b>*
