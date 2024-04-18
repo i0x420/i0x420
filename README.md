@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I have never been hurt by anything I didn't say. "</i></h5>**
+**<h5><i>" If you aren't going all the way, why go at all? "</i></h5>**
 
-*<b>___ Calvin Coolidge ___</b>*
+*<b>___ Joe Namath ___</b>*
