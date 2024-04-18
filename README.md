@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" How far that little candle throws its beams! So shines a good deed in a naughty world. "</i></h5>**
+**<h5><i>" If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself. "</i></h5>**
 
-*<b>___ William Shakespeare ___</b>*
+*<b>___ Rollo May ___</b>*
