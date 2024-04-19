@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Think how hard physics would be if particles could think. "</i></h5>**
+**<h5><i>" Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times. "</i></h5>**
 
-*<b>___ Murray Gell-Mann ___</b>*
+*<b>___ Napoleon Hill ___</b>*
