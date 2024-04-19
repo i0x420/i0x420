@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Any sufficiently advanced technology is equivalent to magic. "</i></h5>**
+**<h5><i>" I'm not in this world to live up to your expectations and you're not in this world to live up to mine. "</i></h5>**
 
-*<b>___ Arthur C. Clarke ___</b>*
+*<b>___ Bruce Lee ___</b>*
