@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Do not wait for leaders; do it alone, person to person. "</i></h5>**
+**<h5><i>" Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health. "</i></h5>**
 
-*<b>___ Mother Teresa ___</b>*
+*<b>___ Dalai Lama ___</b>*
