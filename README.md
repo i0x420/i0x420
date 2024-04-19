@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I'm not interested in age. People who tell me their age are silly. You're as old as you feel. "</i></h5>**
+**<h5><i>" An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind. "</i></h5>**
 
-*<b>___ Elizabeth Arden ___</b>*
+*<b>___ Albert Schweitzer ___</b>*
