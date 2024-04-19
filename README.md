@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All this worldly wisdom was once the unamiable heresy of some wise man. "</i></h5>**
+**<h5><i>" The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it. "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ Michelangelo ___</b>*
