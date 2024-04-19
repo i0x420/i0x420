@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The more sand that has escaped from the hourglass of our life, the clearer we should see through it. "</i></h5>**
+**<h5><i>" The greatest obstacle to connecting with our joy is resentment. "</i></h5>**
 
-*<b>___ Jean-Paul Sartre ___</b>*
+*<b>___ Pema Chödrön ___</b>*
