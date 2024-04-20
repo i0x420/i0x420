@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow. "</i></h5>**
+**<h5><i>" Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others? "</i></h5>**
 
-*<b>___ Rachel Carson ___</b>*
+*<b>___ Dalai Lama ___</b>*
