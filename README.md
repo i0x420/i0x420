@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Problems are only opportunities with thorns on them. "</i></h5>**
+**<h5><i>" Effort only fully releases its reward after a person refuses to quit. "</i></h5>**
 
-*<b>___ Hugh Miller ___</b>*
+*<b>___ Napoleon Hill ___</b>*
