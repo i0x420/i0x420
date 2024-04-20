@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The best thing in every noble dream is the dreamer... "</i></h5>**
+**<h5><i>" One loyal friend is worth ten thousand relatives. "</i></h5>**
 
-*<b>___ Moncure D. Conway ___</b>*
+*<b>___ Euripides ___</b>*
