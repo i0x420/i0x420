@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Never bend your head. Always hold it high. Look the world right in the eye. "</i></h5>**
+**<h5><i>" There are things so deep and complex that only intuition can reach it in our stage of development as human beings. "</i></h5>**
 
-*<b>___ Helen Keller ___</b>*
+*<b>___ John Astin ___</b>*
