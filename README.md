@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship often ends in love, but love in friendship - never. "</i></h5>**
+**<h5><i>" If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow. "</i></h5>**
 
-*<b>___ Albert Camus ___</b>*
+*<b>___ Rachel Carson ___</b>*
