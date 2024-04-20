@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" No one is useless in this world who lightens the burdens of another. "</i></h5>**
+**<h5><i>" Problems are only opportunities with thorns on them. "</i></h5>**
 
-*<b>___ Charles Dickens ___</b>*
+*<b>___ Hugh Miller ___</b>*
