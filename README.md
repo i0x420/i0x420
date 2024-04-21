@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The heart has eyes which the brain knows nothing of. "</i></h5>**
+**<h5><i>" The best thing about the future is that it only comes one day at a time. "</i></h5>**
 
-*<b>___ Charles Henry Parkhurst ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
