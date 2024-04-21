@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We are all something, but none of us are everything. "</i></h5>**
+**<h5><i>" Give me a lever long enough and a fulcrum on which to place it, and I shall move the world. "</i></h5>**
 
-*<b>___ Blaise Pascal ___</b>*
+*<b>___ Archimedes ___</b>*
