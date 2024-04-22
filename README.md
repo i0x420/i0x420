@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It requires wisdom to understand wisdom: the music is nothing if the audience is deaf. "</i></h5>**
+**<h5><i>" Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing. "</i></h5>**
 
-*<b>___ Walter Lippmann ___</b>*
+*<b>___ The Buddha ___</b>*
