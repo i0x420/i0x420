@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Remember that the most valuable antiques are dear old friends. "</i></h5>**
+**<h5><i>" The day of fortune is like a harvest day, we must be busy when the corn is ripe. "</i></h5>**
 
-*<b>___ H. Jackson Brown Jr. ___</b>*
+*<b>___ Torquato Tasso ___</b>*
