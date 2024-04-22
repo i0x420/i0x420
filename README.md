@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There's power in looking silly and not caring that you do. "</i></h5>**
+**<h5><i>" We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel. "</i></h5>**
 
-*<b>___ Amy Poehler ___</b>*
+*<b>___ Marcia Fudge ___</b>*
