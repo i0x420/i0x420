@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party. "</i></h5>**
+**<h5><i>" In wartime, truth is so precious that she should always be attended by a bodyguard of lies. "</i></h5>**
 
-*<b>___ Hanya Yanagihara ___</b>*
+*<b>___ Winston Churchill ___</b>*
