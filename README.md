@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" This is the final test of a gentleman: his respect for those who can be of no possible value to him. "</i></h5>**
+**<h5><i>" It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something. "</i></h5>**
 
-*<b>___ William Lyon Phelps ___</b>*
+*<b>___ Franklin D. Roosevelt ___</b>*
