@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Our character is what we do when we think no one is looking. "</i></h5>**
+**<h5><i>" The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds. "</i></h5>**
 
-*<b>___ H. Jackson Brown Jr. ___</b>*
+*<b>___ Will Durant ___</b>*
