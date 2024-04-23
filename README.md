@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Imagination is the living power and prime agent of all human perception. "</i></h5>**
+**<h5><i>" Work for something because it is good, not just because it stands a chance to succeed. "</i></h5>**
 
-*<b>___ Samuel Taylor Coleridge ___</b>*
+*<b>___ Václav Havel ___</b>*
