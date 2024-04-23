@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A single lamp may light hundreds of thousands of lamps without itself being diminished. "</i></h5>**
+**<h5><i>" Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Ovid ___</b>*
