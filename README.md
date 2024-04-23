@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Happiness resides not in possessions, and not in gold, happiness dwells in the soul. "</i></h5>**
+**<h5><i>" For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour. "</i></h5>**
 
-*<b>___ Democritus ___</b>*
+*<b>___ Mary Kay Ash ___</b>*
