@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Never do things others can do and will do, if there are things others cannot do or will not do. "</i></h5>**
+**<h5><i>" Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population. "</i></h5>**
 
-*<b>___ Amelia Earhart ___</b>*
+*<b>___ Albert Einstein ___</b>*
