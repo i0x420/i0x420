@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Happiness can exist only in acceptance. "</i></h5>**
+**<h5><i>" Numberless are the worlds wonders, but none more wonderful than man. "</i></h5>**
 
-*<b>___ George Orwell ___</b>*
+*<b>___ Sophocles ___</b>*
