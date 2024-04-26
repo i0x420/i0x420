@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The meaning I picked, the one that changed my life: Overcome fear, behold wonder. "</i></h5>**
+**<h5><i>" I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is. "</i></h5>**
 
-*<b>___ Richard Bach ___</b>*
+*<b>___ Alan Watts ___</b>*
