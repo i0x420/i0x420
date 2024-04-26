@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Happiness mainly comes from our own attitude, rather than from external factors. "</i></h5>**
+**<h5><i>" Before you put on a frown, make absolutely sure there are no smiles available. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ James M. Beggs ___</b>*
