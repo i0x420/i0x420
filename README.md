@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Believe you can and you're halfway there. "</i></h5>**
+**<h5><i>" We are stuck with technology when what we really want is just stuff that works. "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ Douglas Adams ___</b>*
