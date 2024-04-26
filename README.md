@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If a man does his best, what else is there? "</i></h5>**
+**<h5><i>" Fear makes strangers of people who would be friends. "</i></h5>**
 
-*<b>___ George S. Patton ___</b>*
+*<b>___ Shirley MacLaine ___</b>*
