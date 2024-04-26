@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Fear makes strangers of people who would be friends. "</i></h5>**
+**<h5><i>" Not all those who wander are lost. "</i></h5>**
 
-*<b>___ Shirley MacLaine ___</b>*
+*<b>___ J. R. R. Tolkien ___</b>*
