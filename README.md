@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To accomplish great things, we must dream as well as act. "</i></h5>**
+**<h5><i>" Yesterday I dared to struggle. Today I dare to win. "</i></h5>**
 
-*<b>___ Anatole France ___</b>*
+*<b>___ Bernadette Devlin ___</b>*
