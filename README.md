@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Those that know, do. Those that understand, teach. "</i></h5>**
+**<h5><i>" As a cure for worrying, work is better than whisky. "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Thomas Edison ___</b>*
