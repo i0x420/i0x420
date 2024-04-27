@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Anything you really want, you can attain, if you really go after it. "</i></h5>**
+**<h5><i>" Be your own hero, it's cheaper than a movie ticket. "</i></h5>**
 
-*<b>___ Wayne Dyer ___</b>*
+*<b>___ Doug Horton ___</b>*
