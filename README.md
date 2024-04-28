@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love. "</i></h5>**
+**<h5><i>" Allow the world to live as it chooses, and allow yourself to live as you choose. "</i></h5>**
 
-*<b>___ Basil of Caesarea ___</b>*
+*<b>___ Richard Bach ___</b>*
