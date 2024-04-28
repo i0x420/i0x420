@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone. "</i></h5>**
+**<h5><i>" Nothing ever goes away until it has taught us what we need to know. "</i></h5>**
 
-*<b>___ John Burroughs ___</b>*
+*<b>___ Pema Chödrön ___</b>*
