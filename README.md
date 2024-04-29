@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Don't be afraid to go out on a limb. That's where the fruit is. "</i></h5>**
+**<h5><i>" You know you're in love when you can't fall asleep because reality is finally better than your dreams. "</i></h5>**
 
-*<b>___ H. Jackson Brown Jr. ___</b>*
+*<b>___ Dr. Seuss ___</b>*
