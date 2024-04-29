@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The time to repair the roof is when the sun is shining. "</i></h5>**
+**<h5><i>" In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas. "</i></h5>**
 
-*<b>___ John F. Kennedy ___</b>*
+*<b>___ The Buddha ___</b>*
