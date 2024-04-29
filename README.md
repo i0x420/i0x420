@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" In the depth of winter, I finally learned that there was within me an invincible summer. "</i></h5>**
+**<h5><i>" We are what we repeatedly do. Excellence, then, is not an act, but a habit. "</i></h5>**
 
-*<b>___ Albert Camus ___</b>*
+*<b>___ Aristotle ___</b>*
