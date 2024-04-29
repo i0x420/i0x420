@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart. "</i></h5>**
+**<h5><i>" Unless one is able to live fully in the present, the future is a hoax. "</i></h5>**
 
-*<b>___ Washington Irving ___</b>*
+*<b>___ Alan Watts ___</b>*
