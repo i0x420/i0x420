@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It all depends on how we look at things, and not how they are in themselves. "</i></h5>**
+**<h5><i>" The weak can never forgive. Forgiveness is the attribute of the strong. "</i></h5>**
 
-*<b>___ Carl Jung ___</b>*
+*<b>___ Mahatma Gandhi ___</b>*
