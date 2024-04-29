@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I can't imagine a person becoming a success who doesn't give this game of life everything he's got. "</i></h5>**
+**<h5><i>" It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life. "</i></h5>**
 
-*<b>___ Walter Cronkite ___</b>*
+*<b>___ Sigmund Freud ___</b>*
