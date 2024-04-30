@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The more sand that has escaped from the hourglass of our life, the clearer we should see through it. "</i></h5>**
+**<h5><i>" If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. "</i></h5>**
 
-*<b>___ Jean-Paul Sartre ___</b>*
+*<b>___ Pema Chödrön ___</b>*
