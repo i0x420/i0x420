@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All that we see or seem is but a dream within a dream. "</i></h5>**
+**<h5><i>" If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear? "</i></h5>**
 
-*<b>___ Edgar Allan Poe ___</b>*
+*<b>___ Confucius ___</b>*
