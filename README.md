@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune. "</i></h5>**
+**<h5><i>" Nobody made a greater mistake than he who did nothing because he could do only a little. "</i></h5>**
 
-*<b>___ Horace ___</b>*
+*<b>___ Edmund Burke ___</b>*
