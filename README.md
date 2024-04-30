@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is a characteristic of wisdom not to do desperate things. "</i></h5>**
+**<h5><i>" Don't leave a stone unturned. It's always something, to know you have done the most you could. "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ Charles Dickens ___</b>*
