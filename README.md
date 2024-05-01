@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Opportunity often comes disguised in the form of misfortune, or temporary defeat. "</i></h5>**
+**<h5><i>" Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Oscar Wilde ___</b>*
