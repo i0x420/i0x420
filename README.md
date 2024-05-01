@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A friend may well be reckoned the masterpiece of nature. "</i></h5>**
+**<h5><i>" If we are not fully ourselves, truly in the present moment, we miss everything. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Thích Nhất Hạnh ___</b>*
