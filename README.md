@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing. "</i></h5>**
+**<h5><i>" The mind unlearns with difficulty what it has long learned. "</i></h5>**
 
-*<b>___ Michel de Montaigne ___</b>*
+*<b>___ Seneca the Younger ___</b>*
