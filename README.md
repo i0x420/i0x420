@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Correction does much, but encouragement does more. "</i></h5>**
+**<h5><i>" When you reach the end of your rope, tie a knot in it and hang on. "</i></h5>**
 
-*<b>___ Johann Wolfgang von Goethe ___</b>*
+*<b>___ Franklin D. Roosevelt ___</b>*
