@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Everything has beauty, but not everyone sees it. "</i></h5>**
+**<h5><i>" Happiness mainly comes from our own attitude, rather than from external factors. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Dalai Lama ___</b>*
