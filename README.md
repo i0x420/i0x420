@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You might well remember that nothing can bring you success but yourself. "</i></h5>**
+**<h5><i>" Men are disturbed not by things, but by the view which they take of them. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Epictetus ___</b>*
