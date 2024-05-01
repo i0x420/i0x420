@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one. "</i></h5>**
+**<h5><i>" We must never forget that it is through our actions, words, and thoughts that we have a choice. "</i></h5>**
 
-*<b>___ Oscar Wilde ___</b>*
+*<b>___ Sogyal Rinpoche ___</b>*
