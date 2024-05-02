@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We read the world wrong and say that it deceives us. "</i></h5>**
+**<h5><i>" Don't look back. Something might be gaining on you. "</i></h5>**
 
-*<b>___ Rabindranath Tagore ___</b>*
+*<b>___ Satchel Paige ___</b>*
