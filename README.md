@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life is movement-we breathe, we eat, we walk, we move! "</i></h5>**
+**<h5><i>" Read as you taste fruit or savor wine, or enjoy friendship, love or life. "</i></h5>**
 
-*<b>___ John Pierrakos ___</b>*
+*<b>___ George Herbert ___</b>*
