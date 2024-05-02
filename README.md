@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I'd rather attempt to do something great and fail than to attempt to do nothing and succeed. "</i></h5>**
+**<h5><i>" If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever. "</i></h5>**
 
-*<b>___ Robert Schuller ___</b>*
+*<b>___ Woody Allen ___</b>*
