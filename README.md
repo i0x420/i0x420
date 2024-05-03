@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing. "</i></h5>**
+**<h5><i>" All I required to be happy was friendship and people I could admire. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Christian Dior ___</b>*
