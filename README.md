@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A person who never made a mistake never tried anything new. "</i></h5>**
+**<h5><i>" We must learn our limits. We are all something, but none of us are everything. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Blaise Pascal ___</b>*
