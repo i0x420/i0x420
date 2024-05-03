@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i></h5>**
+**<h5><i>" I violated the Noah rule: Predicting rain doesn't count; building arks does. "</i></h5>**
 
-*<b>___ Samuel Beckett ___</b>*
+*<b>___ Warren Buffett ___</b>*
