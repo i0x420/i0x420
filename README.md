@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You cannot find yourself by going into the past. You can find yourself by coming into the present. "</i></h5>**
+**<h5><i>" The key is to keep company only with people who uplift you, whose presence calls forth your best. "</i></h5>**
 
-*<b>___ Eckhart Tolle ___</b>*
+*<b>___ Epictetus ___</b>*
