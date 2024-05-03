@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Before you put on a frown, make absolutely sure there are no smiles available. "</i></h5>**
+**<h5><i>" Nobody made a greater mistake than he who did nothing because he could do only a little. "</i></h5>**
 
-*<b>___ James M. Beggs ___</b>*
+*<b>___ Edmund Burke ___</b>*
