@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We must learn our limits. We are all something, but none of us are everything. "</i></h5>**
+**<h5><i>" Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future. "</i></h5>**
 
-*<b>___ Blaise Pascal ___</b>*
+*<b>___ Dale Turner ___</b>*
