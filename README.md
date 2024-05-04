@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road. "</i></h5>**
+**<h5><i>" The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth. "</i></h5>**
 
-*<b>___ Stewart Brand ___</b>*
+*<b>___ Peter Abelard ___</b>*
