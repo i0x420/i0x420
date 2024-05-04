@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations. "</i></h5>**
+**<h5><i>" There are things so deep and complex that only intuition can reach it in our stage of development as human beings. "</i></h5>**
 
-*<b>___ Alan Watts ___</b>*
+*<b>___ John Astin ___</b>*
