@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You got to be careful if you don't know where you're going, because you might not get there. "</i></h5>**
+**<h5><i>" Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one. "</i></h5>**
 
-*<b>___ Yogi Berra ___</b>*
+*<b>___ Oscar Wilde ___</b>*
