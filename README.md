@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world. "</i></h5>**
+**<h5><i>" In friendship as well as love, ignorance very often contributes more to our happiness than knowledge. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ François de La Rochefoucauld ___</b>*
