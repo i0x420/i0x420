@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If one does not know to which port one is sailing, no wind is favorable. "</i></h5>**
+**<h5><i>" There is only one success: to be able to spend your life in your own way. "</i></h5>**
 
-*<b>___ Seneca the Younger ___</b>*
+*<b>___ Christopher Morley ___</b>*
