@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life is 10% what happens to you and 90% how you react to it. "</i></h5>**
+**<h5><i>" We could never learn to be brave and patient if there were only joy in the world. "</i></h5>**
 
-*<b>___ Chuck Swindoll ___</b>*
+*<b>___ Helen Keller ___</b>*
