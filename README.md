@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If opportunity doesn't knock, build a door. "</i></h5>**
+**<h5><i>" Love is the attempt to form a friendship inspired by beauty. "</i></h5>**
 
-*<b>___ Milton Berle ___</b>*
+*<b>___ Cicero ___</b>*
