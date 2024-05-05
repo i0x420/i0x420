@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Russia is a riddle wrapped in a mystery inside an enigma. "</i></h5>**
+**<h5><i>" Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Melody Beattie ___</b>*
