@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" How wonderful that we have met with a paradox. Now we have some hope of making progress. "</i></h5>**
+**<h5><i>" The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back. "</i></h5>**
 
-*<b>___ Niels Bohr ___</b>*
+*<b>___ Seneca the Younger ___</b>*
