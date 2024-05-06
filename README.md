@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Divide each difficulty into as many parts as is feasible and necessary to resolve it. "</i></h5>**
+**<h5><i>" Wisdom is the power to put our time and our knowledge to the proper use. "</i></h5>**
 
-*<b>___ René Descartes ___</b>*
+*<b>___ Thomas J. Watson ___</b>*
