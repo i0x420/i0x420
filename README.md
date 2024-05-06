@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Read as you taste fruit or savor wine, or enjoy friendship, love or life. "</i></h5>**
+**<h5><i>" A failure is a man who has blundered but is not capable of cashing in on the experience. "</i></h5>**
 
-*<b>___ George Herbert ___</b>*
+*<b>___ Elbert Hubbard ___</b>*
