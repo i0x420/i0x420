@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be. "</i></h5>**
+**<h5><i>" When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps. "</i></h5>**
 
-*<b>___ Alan Watts ___</b>*
+*<b>___ Confucius ___</b>*
