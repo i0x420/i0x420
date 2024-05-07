@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When in doubt, tell the truth. "</i></h5>**
+**<h5><i>" No man can succeed in a line of endeavor which he does not like. "</i></h5>**
 
-*<b>___ Mark Twain ___</b>*
+*<b>___ Napoleon Hill ___</b>*
