@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The greatest obstacle to connecting with our joy is resentment. "</i></h5>**
+**<h5><i>" Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself. "</i></h5>**
 
-*<b>___ Pema Chödrön ___</b>*
+*<b>___ Kahlil Gibran ___</b>*
