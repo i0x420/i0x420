@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom. "</i></h5>**
+**<h5><i>" Yeah, we all shine on, like the moon, and the stars, and the sun. "</i></h5>**
 
-*<b>___ Marcel Proust ___</b>*
+*<b>___ John Lennon ___</b>*
