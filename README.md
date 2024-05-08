@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A failure is a man who has blundered but is not capable of cashing in on the experience. "</i></h5>**
+**<h5><i>" Very little is needed to make a happy life; it is all within yourself, in your way of thinking. "</i></h5>**
 
-*<b>___ Elbert Hubbard ___</b>*
+*<b>___ Marcus Aurelius ___</b>*
