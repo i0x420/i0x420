@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Swim upstream. Go the other way. Ignore the conventional wisdom. "</i></h5>**
+**<h5><i>" A friend is what the heart needs all the time. "</i></h5>**
 
-*<b>___ Sam Walton ___</b>*
+*<b>___ Henry van Dyke Jr. ___</b>*
