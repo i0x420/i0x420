@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today. "</i></h5>**
+**<h5><i>" Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain. "</i></h5>**
 
-*<b>___ Tryon Edwards ___</b>*
+*<b>___ Kahlil Gibran ___</b>*
