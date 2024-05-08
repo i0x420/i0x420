@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you want a thing done well, do it yourself. "</i></h5>**
+**<h5><i>" A single lamp may light hundreds of thousands of lamps without itself being diminished. "</i></h5>**
 
-*<b>___ Napoleon ___</b>*
+*<b>___ The Buddha ___</b>*
