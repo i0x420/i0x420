@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem. "</i></h5>**
+**<h5><i>" The lure of the distant and the difficult is deceptive. The great opportunity is where you are. "</i></h5>**
 
-*<b>___ J. Paul Getty ___</b>*
+*<b>___ John Burroughs ___</b>*
