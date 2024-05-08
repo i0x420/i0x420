@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All our knowledge has its origins in our perceptions. "</i></h5>**
+**<h5><i>" The truth you believe and cling to makes you unavailable to hear anything new. "</i></h5>**
 
-*<b>___ Leonardo da Vinci ___</b>*
+*<b>___ Pema Chödrön ___</b>*
