@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light. "</i></h5>**
+**<h5><i>" I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Winston Churchill ___</b>*
