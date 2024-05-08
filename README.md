@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Very little is needed to make a happy life; it is all within yourself, in your way of thinking. "</i></h5>**
+**<h5><i>" If you spend your whole life waiting for the storm, you'll never enjoy the sunshine. "</i></h5>**
 
-*<b>___ Marcus Aurelius ___</b>*
+*<b>___ Morris West ___</b>*
