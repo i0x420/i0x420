@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A business that makes nothing but money is a poor business. "</i></h5>**
+**<h5><i>" I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind. "</i></h5>**
 
-*<b>___ Henry Ford ___</b>*
+*<b>___ Albert Einstein ___</b>*
