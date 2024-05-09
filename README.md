@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Know, first, who you are, and then adorn yourself accordingly. "</i></h5>**
+**<h5><i>" He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today. "</i></h5>**
 
-*<b>___ Epictetus ___</b>*
+*<b>___ Tryon Edwards ___</b>*
