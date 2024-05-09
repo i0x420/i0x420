@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship, like the immortality of the soul, is too good to be believed. "</i></h5>**
+**<h5><i>" You were not born a winner, and you were not born a loser. You are what you make yourself be. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Lou Holtz ___</b>*
