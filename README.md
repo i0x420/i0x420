@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice. "</i></h5>**
+**<h5><i>" All love that has not friendship for its base, is like a mansion built upon the sand. "</i></h5>**
 
-*<b>___ Wayne Dyer ___</b>*
+*<b>___ Ella Wheeler Wilcox ___</b>*
