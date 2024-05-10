@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A real friend is one who walks in when the rest of the world walks out. "</i></h5>**
+**<h5><i>" Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day. "</i></h5>**
 
-*<b>___ Walter Winchell ___</b>*
+*<b>___ George Foreman ___</b>*
