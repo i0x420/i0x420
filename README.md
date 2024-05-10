@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy. "</i></h5>**
+**<h5><i>" I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can. "</i></h5>**
 
-*<b>___ Thích Nhất Hạnh ___</b>*
+*<b>___ Bernard Shaw ___</b>*
