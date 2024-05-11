@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life is what happens to you while you're busy making other plans. "</i></h5>**
+**<h5><i>" The ego is nothing other than the focus of conscious attention. "</i></h5>**
 
-*<b>___ John Lennon ___</b>*
+*<b>___ Alan Watts ___</b>*
