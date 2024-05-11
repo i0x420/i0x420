@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" In skating over thin ice our safety is in our speed. "</i></h5>**
+**<h5><i>" The beginning of knowledge is the discovery of something we do not understand. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Frank Herbert ___</b>*
