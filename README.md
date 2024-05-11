@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Wisdom, compassion, and courage are the three universally recognized moral qualities of men. "</i></h5>**
+**<h5><i>" We must embrace pain and burn it as fuel for our journey. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Kenji Miyazawa ___</b>*
