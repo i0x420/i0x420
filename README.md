@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice. "</i></h5>**
+**<h5><i>" The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out. "</i></h5>**
 
-*<b>___ Richard Bach ___</b>*
+*<b>___ Walter Benjamin ___</b>*
