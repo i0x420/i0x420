@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Be here now. Be someplace else later. Is that so complicated? "</i></h5>**
+**<h5><i>" Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world. "</i></h5>**
 
-*<b>___ David Bader ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
