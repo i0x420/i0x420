@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Only those who dare to fail greatly can ever achieve greatly. "</i></h5>**
+**<h5><i>" By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm. "</i></h5>**
 
-*<b>___ Robert F. Kennedy ___</b>*
+*<b>___ Dalai Lama ___</b>*
