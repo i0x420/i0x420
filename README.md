@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody. "</i></h5>**
+**<h5><i>" Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times. "</i></h5>**
 
-*<b>___ Henry Wadsworth Longfellow ___</b>*
+*<b>___ Napoleon Hill ___</b>*
