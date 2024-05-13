@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To follow, without halt, one aim: There is the secret of success. "</i></h5>**
+**<h5><i>" Love and compassion open our own inner life, reducing stress, distrust and loneliness. "</i></h5>**
 
-*<b>___ Anna Pavlova ___</b>*
+*<b>___ Dalai Lama ___</b>*
