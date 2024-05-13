@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. "</i></h5>**
+**<h5><i>" Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody. "</i></h5>**
 
-*<b>___ Isocrates ___</b>*
+*<b>___ Henry Wadsworth Longfellow ___</b>*
