@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts. "</i></h5>**
+**<h5><i>" Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars. "</i></h5>**
 
-*<b>___ Booker T. Washington ___</b>*
+*<b>___ Henry van Dyke Jr. ___</b>*
