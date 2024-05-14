@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Fear not for the future, weep not for the past. "</i></h5>**
+**<h5><i>" Kind words can be short and easy to speak, but their echoes are truly endless. "</i></h5>**
 
-*<b>___ Percy Bysshe Shelley ___</b>*
+*<b>___ Mother Teresa ___</b>*
