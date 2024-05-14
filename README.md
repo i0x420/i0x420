@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Always seek out the seed of triumph in every adversity. "</i></h5>**
+**<h5><i>" A good head and a good heart are always a formidable combination. "</i></h5>**
 
-*<b>___ Og Mandino ___</b>*
+*<b>___ Nelson Mandela ___</b>*
