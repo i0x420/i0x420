@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world. "</i></h5>**
+**<h5><i>" As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer. "</i></h5>**
 
-*<b>___ Robert Louis Stevenson ___</b>*
+*<b>___ James Gleick ___</b>*
