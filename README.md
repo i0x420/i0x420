@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one. "</i></h5>**
+**<h5><i>" Computers are useless. They can only give you answers. "</i></h5>**
 
-*<b>___ Diogenes ___</b>*
+*<b>___ Pablo Picasso ___</b>*
