@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Silence is deep as Eternity; Speech is shallow as Time. "</i></h5>**
+**<h5><i>" There are no secrets to success. It is the result of preparation, hard work, and learning from failure. "</i></h5>**
 
-*<b>___ Thomas Carlyle ___</b>*
+*<b>___ Colin Powell ___</b>*
