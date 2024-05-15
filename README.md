@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right. "</i></h5>**
+**<h5><i>" Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Thomas Aquinas ___</b>*
