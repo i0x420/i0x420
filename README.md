@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you surrender to the wind, you can ride it. "</i></h5>**
+**<h5><i>" A man is great by deeds, not by birth. "</i></h5>**
 
-*<b>___ Toni Morrison ___</b>*
+*<b>___ Chanakya ___</b>*
