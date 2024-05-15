@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Fear not for the future, weep not for the past. "</i></h5>**
+**<h5><i>" Never deny a diagnosis but do deny the negative verdict that may go with it. "</i></h5>**
 
-*<b>___ Percy Bysshe Shelley ___</b>*
+*<b>___ Norman Cousins ___</b>*
