@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You have to do your own growing no matter how tall your grandfather was. "</i></h5>**
+**<h5><i>" I have an everyday religion that works for me. Love yourself first, and everything else falls into line. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Lucille Ball ___</b>*
