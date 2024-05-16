@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life. "</i></h5>**
+**<h5><i>" To choose what is difficult all one's days, as if it were easy, that is faith. "</i></h5>**
 
-*<b>___ Albert Camus ___</b>*
+*<b>___ W. H. Auden ___</b>*
