@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others. "</i></h5>**
+**<h5><i>" The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ William James ___</b>*
