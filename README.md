@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship, like credit, is highest when it is not used. "</i></h5>**
+**<h5><i>" The past has no power to stop you from being present now. Only your grievance about the past can do that. "</i></h5>**
 
-*<b>___ Elbert Hubbard ___</b>*
+*<b>___ Eckhart Tolle ___</b>*
