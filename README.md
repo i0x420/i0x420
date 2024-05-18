@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Silence is the sleep that nourishes wisdom. "</i></h5>**
+**<h5><i>" Intuition will tell the thinking mind where to look next. "</i></h5>**
 
-*<b>___ Francis Bacon ___</b>*
+*<b>___ Jonas Salk ___</b>*
