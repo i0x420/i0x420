@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Real magic in relationships means an absence of judgement of others. "</i></h5>**
+**<h5><i>" An organization, no matter how well designed, is only as good as the people who live and work in it. "</i></h5>**
 
-*<b>___ Wayne Dyer ___</b>*
+*<b>___ Dee Hock ___</b>*
