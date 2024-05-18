@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals. "</i></h5>**
+**<h5><i>" Everyone in the world ought to do the things for which he is specially adapted. It is the part of wisdom to recognize what each one of us is best fitted for, and it is the part of education to perfect and utilize such predispositions. Because education can direct and aid nature but can never transform her. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Maria Montessori ___</b>*
