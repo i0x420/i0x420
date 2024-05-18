@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Autumn is a second spring when every leaf is a flower. "</i></h5>**
+**<h5><i>" When I do good I feel good, when I do bad I feel bad, and that's my religion. "</i></h5>**
 
-*<b>___ Albert Camus ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
