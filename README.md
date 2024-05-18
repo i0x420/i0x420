@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one. "</i></h5>**
+**<h5><i>" I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown. "</i></h5>**
 
-*<b>___ John Lennon ___</b>*
+*<b>___ Woody Allen ___</b>*
