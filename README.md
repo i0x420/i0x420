@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" He who lives in harmony with himself lives in harmony with the universe. "</i></h5>**
+**<h5><i>" I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals. "</i></h5>**
 
-*<b>___ Marcus Aurelius ___</b>*
+*<b>___ Winston Churchill ___</b>*
