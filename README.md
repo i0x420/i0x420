@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" They must often change, who would be constant in happiness or wisdom. "</i></h5>**
+**<h5><i>" To fly as fast as thought, you must begin by knowing that you have already arrived. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Richard Bach ___</b>*
