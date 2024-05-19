@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind. "</i></h5>**
+**<h5><i>" We are what we repeatedly do. Excellence, then, is not an act, but a habit. "</i></h5>**
 
-*<b>___ Kahlil Gibran ___</b>*
+*<b>___ Aristotle ___</b>*
