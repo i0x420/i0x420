@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way. "</i></h5>**
+**<h5><i>" There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world. "</i></h5>**
 
-*<b>___ Wayne Dyer ___</b>*
+*<b>___ Robert Louis Stevenson ___</b>*
