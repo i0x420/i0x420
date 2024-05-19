@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The superior man acts before he speaks, and afterwards speaks according to his action. "</i></h5>**
+**<h5><i>" Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Helen Keller ___</b>*
