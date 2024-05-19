@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship at first sight, like love at first sight, is said to be the only truth. "</i></h5>**
+**<h5><i>" It's not what happens to you, but how you react to it that matters. "</i></h5>**
 
-*<b>___ Herman Melville ___</b>*
+*<b>___ Epictetus ___</b>*
