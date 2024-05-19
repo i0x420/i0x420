@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Experience is not what happens to a man. It is what a man does with what happens to him. "</i></h5>**
+**<h5><i>" When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps. "</i></h5>**
 
-*<b>___ Aldous Huxley ___</b>*
+*<b>___ Confucius ___</b>*
