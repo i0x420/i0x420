@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune. "</i></h5>**
+**<h5><i>" It is fatal to enter any war without the will to win it. "</i></h5>**
 
-*<b>___ Horace ___</b>*
+*<b>___ Douglas MacArthur ___</b>*
