@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The greatest obstacle to connecting with our joy is resentment. "</i></h5>**
+**<h5><i>" Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts. "</i></h5>**
 
-*<b>___ Pema Chödrön ___</b>*
+*<b>___ Aristotle ___</b>*
