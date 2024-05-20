@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We are not animals. We are not a product of what has happened to us in our past. We have the power of choice. "</i></h5>**
+**<h5><i>" One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility. "</i></h5>**
 
-*<b>___ Stephen Covey ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
