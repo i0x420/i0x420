@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Keep silence for the most part, and speak only when you must, and then briefly. "</i></h5>**
+**<h5><i>" Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions. "</i></h5>**
 
-*<b>___ Epictetus ___</b>*
+*<b>___ Samuel Johnson ___</b>*
