@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Silence is deep as Eternity; Speech is shallow as Time. "</i></h5>**
+**<h5><i>" Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion? "</i></h5>**
 
-*<b>___ Thomas Carlyle ___</b>*
+*<b>___ Friedrich Nietzsche ___</b>*
