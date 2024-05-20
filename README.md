@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. "</i></h5>**
+**<h5><i>" Whatever has the nature of arising has the nature of ceasing. "</i></h5>**
 
-*<b>___ George Bernard Shaw ___</b>*
+*<b>___ The Buddha ___</b>*
