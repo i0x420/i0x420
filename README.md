@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Ethical axioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience. "</i></h5>**
+**<h5><i>" The world turns aside to let any man pass who knows where he is going. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Epictetus ___</b>*
