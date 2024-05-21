@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Mountains cannot be surmounted except by winding paths. "</i></h5>**
+**<h5><i>" Friendship with oneself is all important because without it one cannot be friends with anybody else in the world. "</i></h5>**
 
-*<b>___ Johann Wolfgang von Goethe ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
