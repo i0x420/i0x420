@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Efficiency is doing things right; effectiveness is doing the right things. "</i></h5>**
+**<h5><i>" If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own. "</i></h5>**
 
-*<b>___ Peter Drucker ___</b>*
+*<b>___ Johann Wolfgang von Goethe ___</b>*
