@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" An organization, no matter how well designed, is only as good as the people who live and work in it. "</i></h5>**
+**<h5><i>" There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. "</i></h5>**
 
-*<b>___ Dee Hock ___</b>*
+*<b>___ Albert Einstein ___</b>*
