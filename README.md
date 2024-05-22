@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The only Zen you find on the tops of mountains is the Zen you bring up there. "</i></h5>**
+**<h5><i>" Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. "</i></h5>**
 
-*<b>___ Robert M. Pirsig ___</b>*
+*<b>___ Steve Jobs ___</b>*
