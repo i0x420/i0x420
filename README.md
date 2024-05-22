@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always. "</i></h5>**
+**<h5><i>" For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour. "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ Mary Kay Ash ___</b>*
