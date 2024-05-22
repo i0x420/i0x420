@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" So is cheerfulness, or a good temper, the more it is spent, the more remains. "</i></h5>**
+**<h5><i>" Even if you're on the right track, you'll get run over if you just sit there. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Will Rogers ___</b>*
