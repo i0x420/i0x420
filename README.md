@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Mediocrity knows nothing higher than itself, but talent instantly recognizes genius. "</i></h5>**
+**<h5><i>" To command is to serve, nothing more and nothing less. "</i></h5>**
 
-*<b>___ Arthur Conan Doyle ___</b>*
+*<b>___ André Malraux ___</b>*
