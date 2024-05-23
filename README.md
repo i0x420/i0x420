@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To conquer fear is the beginning of wisdom. "</i></h5>**
+**<h5><i>" 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill. "</i></h5>**
 
-*<b>___ Bertrand Russell ___</b>*
+*<b>___ The Buddha ___</b>*
