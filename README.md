@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" What is not started today is never finished tomorrow. "</i></h5>**
+**<h5><i>" The biggest room in the world is room for improvement. "</i></h5>**
 
-*<b>___ Johann Wolfgang von Goethe ___</b>*
+*<b>___ Helmut Schmidt ___</b>*
