@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" He has no enemies, but is intensely disliked by his friends. "</i></h5>**
+**<h5><i>" First say to yourself what you would be; and then do what you have to do. "</i></h5>**
 
-*<b>___ Oscar Wilde ___</b>*
+*<b>___ Epictetus ___</b>*
