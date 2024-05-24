@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one. "</i></h5>**
+**<h5><i>" Remember always that you not only have the right to be an individual, you have an obligation to be one. "</i></h5>**
 
-*<b>___ Diogenes ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
