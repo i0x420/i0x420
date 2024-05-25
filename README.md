@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Be great in act, as you have been in thought. "</i></h5>**
+**<h5><i>" There's power in looking silly and not caring that you do. "</i></h5>**
 
-*<b>___ William Shakespeare ___</b>*
+*<b>___ Amy Poehler ___</b>*
