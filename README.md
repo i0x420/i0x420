@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You just can't beat the person who never gives up. "</i></h5>**
+**<h5><i>" Yeah, we all shine on, like the moon, and the stars, and the sun. "</i></h5>**
 
-*<b>___ Babe Ruth ___</b>*
+*<b>___ John Lennon ___</b>*
