@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful. "</i></h5>**
+**<h5><i>" Friendship is an arrangement by which we undertake to exchange small favors for big ones. "</i></h5>**
 
-*<b>___ John Wooden ___</b>*
+*<b>___ Montesquieu ___</b>*
