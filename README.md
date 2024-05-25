@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The ladder of success is never crowded at the top. "</i></h5>**
+**<h5><i>" Myths which are believed in tend to become true. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ George Orwell ___</b>*
