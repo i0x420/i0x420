@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Don't smother each other. No one can grow in the shade. "</i></h5>**
+**<h5><i>" A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value. "</i></h5>**
 
-*<b>___ Leo Buscaglia ___</b>*
+*<b>___ Isaac Asimov ___</b>*
