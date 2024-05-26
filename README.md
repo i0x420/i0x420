@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Russia is a riddle wrapped in a mystery inside an enigma. "</i></h5>**
+**<h5><i>" We've got to have a dream if we are going to make a dream come true. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Walt Disney ___</b>*
