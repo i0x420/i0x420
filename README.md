@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Setting goals is the first step in turning the invisible into the visible. "</i></h5>**
+**<h5><i>" Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently. "</i></h5>**
 
-*<b>___ Tony Robbins ___</b>*
+*<b>___ William Arthur Ward ___</b>*
