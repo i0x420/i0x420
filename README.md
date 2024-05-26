@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All serious daring starts from within. "</i></h5>**
+**<h5><i>" The great myth of our times is that technology is communication. "</i></h5>**
 
-*<b>___ Harriet Beecher Stowe ___</b>*
+*<b>___ Libby Larsen ___</b>*
