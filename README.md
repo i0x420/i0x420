@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals. "</i></h5>**
+**<h5><i>" Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information? "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ George Eliot ___</b>*
