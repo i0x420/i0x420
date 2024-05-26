@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Fortune befriends the bold. "</i></h5>**
+**<h5><i>" Knowledge is of no value unless you put it into practice. "</i></h5>**
 
-*<b>___ John Dryden ___</b>*
+*<b>___ Anton Chekhov ___</b>*
