@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Your worst enemy cannot harm you as much as your own unguarded thoughts. "</i></h5>**
+**<h5><i>" Kind words do not cost much. Yet they accomplish much. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Blaise Pascal ___</b>*
