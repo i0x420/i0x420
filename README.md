@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A man cannot be said to succeed in this life who does not satisfy one friend. "</i></h5>**
+**<h5><i>" As a cure for worrying, work is better than whisky. "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ Thomas Edison ___</b>*
