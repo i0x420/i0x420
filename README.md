@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children. "</i></h5>**
+**<h5><i>" How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god. "</i></h5>**
 
-*<b>___ Kahlil Gibran ___</b>*
+*<b>___ Alan Watts ___</b>*
