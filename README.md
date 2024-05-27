@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others. "</i></h5>**
+**<h5><i>" Knowledge is proud that it knows so much; wisdom is humble that it knows no more. "</i></h5>**
 
-*<b>___ Anne Lindbergh ___</b>*
+*<b>___ William Cowper ___</b>*
