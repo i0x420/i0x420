@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I want my friend to miss me as long as I miss him. "</i></h5>**
+**<h5><i>" Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one. "</i></h5>**
 
-*<b>___ Augustine of Hippo ___</b>*
+*<b>___ Diogenes ___</b>*
