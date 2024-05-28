@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Everyone thinks of changing the world, but no one thinks of changing himself. "</i></h5>**
+**<h5><i>" The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life. "</i></h5>**
 
-*<b>___ Leo Tolstoy ___</b>*
+*<b>___ Eckhart Tolle ___</b>*
