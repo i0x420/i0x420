@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Blessed are the hearts that can bend; they shall never be broken. "</i></h5>**
+**<h5><i>" There is nothing impossible to him who will try. "</i></h5>**
 
-*<b>___ Albert Camus ___</b>*
+*<b>___ Alexander the Great ___</b>*
