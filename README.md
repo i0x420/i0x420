@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life's most persistent and urgent question is, 'What are you doing for others?' "</i></h5>**
+**<h5><i>" If you want to kill any idea in the world, get a committee working on it. "</i></h5>**
 
-*<b>___ Martin Luther King Jr. ___</b>*
+*<b>___ Charles F. Kettering ___</b>*
