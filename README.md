@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better. "</i></h5>**
+**<h5><i>" Belief consists in accepting the affirmations of the soul; Unbelief, in denying them. "</i></h5>**
 
-*<b>___ Plutarch ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
