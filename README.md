@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" God has given you one face, and you make yourself another. "</i></h5>**
+**<h5><i>" A friend is what the heart needs all the time. "</i></h5>**
 
-*<b>___ William Shakespeare ___</b>*
+*<b>___ Henry van Dyke Jr. ___</b>*
