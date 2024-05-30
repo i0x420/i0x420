@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Happiness is when what you think, what you say, and what you do are in harmony. "</i></h5>**
+**<h5><i>" Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart. "</i></h5>**
 
-*<b>___ Mahatma Gandhi ___</b>*
+*<b>___ Marcus Aurelius ___</b>*
