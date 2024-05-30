@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family. "</i></h5>**
+**<h5><i>" You win the victory when you yield to friends. "</i></h5>**
 
-*<b>___ Salman Rushdie ___</b>*
+*<b>___ Sophocles ___</b>*
