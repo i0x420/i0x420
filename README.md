@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you're going through hell, keep going. "</i></h5>**
+**<h5><i>" When watching after yourself, you watch after others. When watching after others, you watch after yourself. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ The Buddha ___</b>*
