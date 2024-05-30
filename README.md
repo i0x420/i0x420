@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good. "</i></h5>**
+**<h5><i>" You got to be careful if you don't know where you're going, because you might not get there. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Yogi Berra ___</b>*
