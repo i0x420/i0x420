@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All this modern technology just makes people try to do everything at once. "</i></h5>**
+**<h5><i>" I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture. "</i></h5>**
 
-*<b>___ Bill Watterson ___</b>*
+*<b>___ Susan Orlean ___</b>*
