@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Read as you taste fruit or savor wine, or enjoy friendship, love or life. "</i></h5>**
+**<h5><i>" As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them. "</i></h5>**
 
-*<b>___ George Herbert ___</b>*
+*<b>___ John F. Kennedy ___</b>*
