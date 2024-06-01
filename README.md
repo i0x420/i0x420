@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion. "</i></h5>**
+**<h5><i>" It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err. "</i></h5>**
 
-*<b>___ Elon Musk ___</b>*
+*<b>___ Mahatma Gandhi ___</b>*
