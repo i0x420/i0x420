@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever. "</i></h5>**
+**<h5><i>" All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope. "</i></h5>**
 
-*<b>___ Amy Tan ___</b>*
+*<b>___ Winston Churchill ___</b>*
