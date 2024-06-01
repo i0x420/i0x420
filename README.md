@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" What happens is not as important as how you react to what happens. "</i></h5>**
+**<h5><i>" The greatest obstacle to connecting with our joy is resentment. "</i></h5>**
 
-*<b>___ Ellen Glasgow ___</b>*
+*<b>___ Pema Chödrön ___</b>*
