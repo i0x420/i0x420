@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Love demands infinitely less than friendship. "</i></h5>**
+**<h5><i>" If one is lucky, a solitary fantasy can totally transform one million realities. "</i></h5>**
 
-*<b>___ George Jean Nathan ___</b>*
+*<b>___ Maya Angelou ___</b>*
