@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Opportunity often comes disguised in the form of misfortune, or temporary defeat. "</i></h5>**
+**<h5><i>" To know oneself is to study oneself in action with another person. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Bruce Lee ___</b>*
