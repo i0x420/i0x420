@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The only thing to do with good advice is to pass it on. It is never of any use to oneself. "</i></h5>**
+**<h5><i>" If one does not know to which port is sailing, no wind is favorable. "</i></h5>**
 
-*<b>___ Oscar Wilde ___</b>*
+*<b>___ Seneca the Younger ___</b>*
