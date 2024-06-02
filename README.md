@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are. "</i></h5>**
+**<h5><i>" Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius. "</i></h5>**
 
-*<b>___ Bernice Reagon ___</b>*
+*<b>___ Wolfgang Amadeus Mozart ___</b>*
