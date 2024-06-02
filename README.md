@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds. "</i></h5>**
+**<h5><i>" When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us. "</i></h5>**
 
-*<b>___ Wayne Dyer ___</b>*
+*<b>___ Helen Keller ___</b>*
