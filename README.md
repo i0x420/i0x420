@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" None knows the weight of another's burden. "</i></h5>**
+**<h5><i>" Many sophisticated, intelligent people lack wisdom and common sense. "</i></h5>**
 
-*<b>___ George Herbert ___</b>*
+*<b>___ Joyce Meyer ___</b>*
