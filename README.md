@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character. "</i></h5>**
+**<h5><i>" The only thing to do with good advice is to pass it on. It is never of any use to oneself. "</i></h5>**
 
-*<b>___ Margaret Chase Smith ___</b>*
+*<b>___ Oscar Wilde ___</b>*
