@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity. "</i></h5>**
+**<h5><i>" When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps. "</i></h5>**
 
-*<b>___ George S. Patton ___</b>*
+*<b>___ Confucius ___</b>*
