@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal. "</i></h5>**
+**<h5><i>" I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Harbhajan Singh ___</b>*
