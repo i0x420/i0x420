@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value. "</i></h5>**
+**<h5><i>" The real danger is not that computers will begin to think like men, but that men will begin to think like computers. "</i></h5>**
 
-*<b>___ Isaac Asimov ___</b>*
+*<b>___ Sydney J. Harris ___</b>*
