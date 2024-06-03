@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Mountains cannot be surmounted except by winding paths. "</i></h5>**
+**<h5><i>" Wisdom begins in wonder. "</i></h5>**
 
-*<b>___ Johann Wolfgang von Goethe ___</b>*
+*<b>___ Socrates ___</b>*
