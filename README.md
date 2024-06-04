@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A man is great by deeds, not by birth. "</i></h5>**
+**<h5><i>" I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown. "</i></h5>**
 
-*<b>___ Chanakya ___</b>*
+*<b>___ Woody Allen ___</b>*
