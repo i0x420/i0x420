@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Knowledge is of no value unless you put it into practice. "</i></h5>**
+**<h5><i>" The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary. "</i></h5>**
 
-*<b>___ Anton Chekhov ___</b>*
+*<b>___ Thomas Edison ___</b>*
