@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" An ounce of emotion is equal to a ton of facts. "</i></h5>**
+**<h5><i>" Business, you know, may bring you money, but friendship hardly ever does. "</i></h5>**
 
-*<b>___ John Junor ___</b>*
+*<b>___ Jane Austen ___</b>*
