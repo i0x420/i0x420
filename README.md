@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I will prepare and someday my chance will come. "</i></h5>**
+**<h5><i>" Action is eloquence. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ William Shakespeare ___</b>*
