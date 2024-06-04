@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns. "</i></h5>**
+**<h5><i>" The noblest worship is to make yourself as good and as just as you can. "</i></h5>**
 
-*<b>___ Bruce Lee ___</b>*
+*<b>___ Isocrates ___</b>*
