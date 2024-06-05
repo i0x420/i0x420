@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds. "</i></h5>**
+**<h5><i>" The world has the habit of making room for the man whose actions show that he knows where he is going. "</i></h5>**
 
-*<b>___ Wayne Dyer ___</b>*
+*<b>___ Napoleon Hill ___</b>*
