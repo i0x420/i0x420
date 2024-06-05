@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. "</i></h5>**
+**<h5><i>" A garden is always a series of losses set against a few triumphs, like life itself. "</i></h5>**
 
-*<b>___ Marie Curie ___</b>*
+*<b>___ May Sarton ___</b>*
