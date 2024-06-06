@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The place to improve the world is first in one's own heart and head and hands. "</i></h5>**
+**<h5><i>" Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that. "</i></h5>**
 
-*<b>___ Robert M. Pirsig ___</b>*
+*<b>___ The Buddha ___</b>*
