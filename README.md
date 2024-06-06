@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points. "</i></h5>**
+**<h5><i>" The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Oscar Wilde ___</b>*
