@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" No act of kindness, no matter how small, is ever wasted. "</i></h5>**
+**<h5><i>" Keep yourself to the sunshine and you cannot see the shadow. "</i></h5>**
 
-*<b>___ Aesop ___</b>*
+*<b>___ Helen Keller ___</b>*
