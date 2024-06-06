@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments. "</i></h5>**
+**<h5><i>" Be slow to fall into friendship; but when thou art in, continue firm and constant. "</i></h5>**
 
-*<b>___ Ezra Stiles ___</b>*
+*<b>___ Isocrates ___</b>*
