@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life is like riding a bicycle. To keep your balance you must keep moving. "</i></h5>**
+**<h5><i>" In action a great heart is the chief qualification. In work, a great head. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Arthur Schopenhauer ___</b>*
