@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The foolish man seeks happiness in the distance, the wise grows it under his feet. "</i></h5>**
+**<h5><i>" Always remember that you are absolutely unique. Just like everyone else. "</i></h5>**
 
-*<b>___ James Oppenheim ___</b>*
+*<b>___ Margaret Mead ___</b>*
