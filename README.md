@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful. "</i></h5>**
+**<h5><i>" How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg. "</i></h5>**
 
-*<b>___ John Wooden ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
