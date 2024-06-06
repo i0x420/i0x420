@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Let us always meet each other with smile, for the smile is the beginning of love. "</i></h5>**
+**<h5><i>" There are no limitations to the mind except those we acknowledge. "</i></h5>**
 
-*<b>___ Mother Teresa ___</b>*
+*<b>___ Napoleon Hill ___</b>*
