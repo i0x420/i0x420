@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg. "</i></h5>**
+**<h5><i>" It is the mark of an educated mind to be able to entertain a thought without accepting it. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Aristotle ___</b>*
