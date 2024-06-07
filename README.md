@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I do not dispute with the world; rather it is the world that disputes with me. "</i></h5>**
+**<h5><i>" A friend is someone who gives you total freedom to be yourself. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Jim Morrison ___</b>*
