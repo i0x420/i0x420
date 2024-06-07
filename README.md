@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When fate hands us a lemon, let's try to make lemonade. "</i></h5>**
+**<h5><i>" If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart. "</i></h5>**
 
-*<b>___ Dale Carnegie ___</b>*
+*<b>___ Nelson Mandela ___</b>*
