@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The biggest room in the world is room for improvement. "</i></h5>**
+**<h5><i>" Some people are born on third base and go through life thinking they hit a triple. "</i></h5>**
 
-*<b>___ Helmut Schmidt ___</b>*
+*<b>___ Barry Switzer ___</b>*
