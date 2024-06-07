@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us! "</i></h5>**
+**<h5><i>" If you have a harem of 40 women, you never get to know any of them very well. "</i></h5>**
 
-*<b>___ Richard Bach ___</b>*
+*<b>___ Warren Buffett ___</b>*
