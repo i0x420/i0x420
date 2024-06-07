@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Everything that happens as it should, and if you observe carefully, you will find this to be so. "</i></h5>**
+**<h5><i>" You just can't beat the person who never gives up. "</i></h5>**
 
-*<b>___ Marcus Aurelius ___</b>*
+*<b>___ Babe Ruth ___</b>*
