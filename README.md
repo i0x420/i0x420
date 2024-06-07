@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Experience keeps a dear school, but fools will learn in no other. "</i></h5>**
+**<h5><i>" There is no charm equal to tenderness of heart. "</i></h5>**
 
-*<b>___ Benjamin Franklin ___</b>*
+*<b>___ Jane Austen ___</b>*
