@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary. "</i></h5>**
+**<h5><i>" Never deny a diagnosis but do deny the negative verdict that may go with it. "</i></h5>**
 
-*<b>___ Thomas Edison ___</b>*
+*<b>___ Norman Cousins ___</b>*
