@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. "</i></h5>**
+**<h5><i>" The wisdom of the wise, and the experience of ages, may be preserved by quotation. "</i></h5>**
 
-*<b>___ Epictetus ___</b>*
+*<b>___ Isaac D'Israeli ___</b>*
