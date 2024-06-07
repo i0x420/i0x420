@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Until you make peace with who you are, you will never be content with what you have. "</i></h5>**
+**<h5><i>" Don't turn away from possible futures before you're certain you don't have anything to learn from them. "</i></h5>**
 
-*<b>___ Doris Mortman ___</b>*
+*<b>___ Richard Bach ___</b>*
