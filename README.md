@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There is no way to happiness, happiness is the way. "</i></h5>**
+**<h5><i>" In the end we retain from our studies only that which we practically apply. "</i></h5>**
 
-*<b>___ Thích Nhất Hạnh ___</b>*
+*<b>___ Johann Wolfgang von Goethe ___</b>*
