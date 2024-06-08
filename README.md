@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We gain the strength of the temptation we resist. "</i></h5>**
+**<h5><i>" The minute you settle for less than you deserve, you get even less than you settled for. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Maureen Dowd ___</b>*
