@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I'm not in this world to live up to your expectations and you're not in this world to live up to mine. "</i></h5>**
+**<h5><i>" If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome. "</i></h5>**
 
-*<b>___ Bruce Lee ___</b>*
+*<b>___ Anne Bradstreet ___</b>*
