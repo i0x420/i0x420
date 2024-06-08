@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship brings in a lot of honesty and trust into any relationship, especially a marriage. "</i></h5>**
+**<h5><i>" Good luck is another name for tenacity of purpose. "</i></h5>**
 
-*<b>___ Farhan Akhtar ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
