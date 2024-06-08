@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The only thing to do with good advice is to pass it on. It is never of any use to oneself. "</i></h5>**
+**<h5><i>" I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship. "</i></h5>**
 
-*<b>___ Oscar Wilde ___</b>*
+*<b>___ Harbhajan Singh ___</b>*
