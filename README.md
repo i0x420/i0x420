@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Who sows virtue reaps honor. "</i></h5>**
+**<h5><i>" If you don't like something, change it. If you can't change it, change your attitude. "</i></h5>**
 
-*<b>___ Leonardo da Vinci ___</b>*
+*<b>___ Maya Angelou ___</b>*
