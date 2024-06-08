@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you don't like something, change it. If you can't change it, change your attitude. "</i></h5>**
+**<h5><i>" Nothing is at last sacred but the integrity of your own mind. "</i></h5>**
 
-*<b>___ Maya Angelou ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
