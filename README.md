@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A single rose can be my garden... a single friend, my world. "</i></h5>**
+**<h5><i>" Appearances are often deceiving. "</i></h5>**
 
-*<b>___ Leo Buscaglia ___</b>*
+*<b>___ Aesop ___</b>*
