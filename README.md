@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself. "</i></h5>**
+**<h5><i>" But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything. "</i></h5>**
 
-*<b>___ Rollo May ___</b>*
+*<b>___ Alan Watts ___</b>*
