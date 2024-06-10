@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We have two ears and one mouth so that we can listen twice as much as we speak. "</i></h5>**
+**<h5><i>" Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i></h5>**
 
-*<b>___ Epictetus ___</b>*
+*<b>___ Nikola Tesla ___</b>*
