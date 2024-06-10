@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship is essentially a partnership. "</i></h5>**
+**<h5><i>" Music in the soul can be heard by the universe. "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Laozi ___</b>*
