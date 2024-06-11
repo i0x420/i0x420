@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All things must come to the soul from its roots, from where it is planted. "</i></h5>**
+**<h5><i>" Any sufficiently advanced technology is equivalent to magic. "</i></h5>**
 
-*<b>___ Teresa of Ávila ___</b>*
+*<b>___ Arthur C. Clarke ___</b>*
