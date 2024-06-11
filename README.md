@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship is like money, easier made than kept. "</i></h5>**
+**<h5><i>" To avoid criticism, do nothing, say nothing, be nothing. "</i></h5>**
 
-*<b>___ Samuel Butler ___</b>*
+*<b>___ Elbert Hubbard ___</b>*
