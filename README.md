@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The superior man is modest in his speech but exceeds in his actions. "</i></h5>**
+**<h5><i>" Our doubts are traitors and make us lose the good we often might win, by fearing to attempt. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Jane Addams ___</b>*
