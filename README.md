@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Do good by stealth, and blush to find it fame. "</i></h5>**
+**<h5><i>" The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries. "</i></h5>**
 
-*<b>___ Alexander Pope ___</b>*
+*<b>___ Winston Churchill ___</b>*
