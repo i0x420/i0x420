@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Love is never lost. If not reciprocated, it will flow back and soften and purify the heart. "</i></h5>**
+**<h5><i>" Gratitude is not only the greatest of virtues, but the parent of all the others. "</i></h5>**
 
-*<b>___ Washington Irving ___</b>*
+*<b>___ Cicero ___</b>*
