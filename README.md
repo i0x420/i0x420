@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own. "</i></h5>**
+**<h5><i>" He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law. "</i></h5>**
 
-*<b>___ Johann Wolfgang von Goethe ___</b>*
+*<b>___ Pablo Picasso ___</b>*
