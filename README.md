@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Kind words do not cost much. Yet they accomplish much. "</i></h5>**
+**<h5><i>" If you love someone, set them free. If they come back, they're yours; if they don't, they never were. "</i></h5>**
 
-*<b>___ Blaise Pascal ___</b>*
+*<b>___ Richard Bach ___</b>*
