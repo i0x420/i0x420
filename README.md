@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable. "</i></h5>**
+**<h5><i>" Where there is charity and wisdom, there is neither fear nor ignorance. "</i></h5>**
 
-*<b>___ Kathleen Norris ___</b>*
+*<b>___ Francis of Assisi ___</b>*
