@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek. "</i></h5>**
+**<h5><i>" So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself. "</i></h5>**
 
-*<b>___ Barack Obama ___</b>*
+*<b>___ Alan Watts ___</b>*
