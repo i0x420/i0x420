@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i></h5>**
+**<h5><i>" Be great in act, as you have been in thought. "</i></h5>**
 
-*<b>___ Chuck Swindoll ___</b>*
+*<b>___ William Shakespeare ___</b>*
