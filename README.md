@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Not what we have but what we enjoy constitutes our abundance. "</i></h5>**
+**<h5><i>" I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act. "</i></h5>**
 
-*<b>___ Jean Antoine Petit-Senn ___</b>*
+*<b>___ G. K. Chesterton ___</b>*
