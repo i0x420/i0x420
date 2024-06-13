@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much. "</i></h5>**
+**<h5><i>" It is only when the mind and character slumber that the dress can be seen. "</i></h5>**
 
-*<b>___ Jim Rohn ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
