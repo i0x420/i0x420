@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world. "</i></h5>**
+**<h5><i>" I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be. "</i></h5>**
 
-*<b>___ Jane Addams ___</b>*
+*<b>___ Thomas Jefferson ___</b>*
