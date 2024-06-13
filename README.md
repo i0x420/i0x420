@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" One loyal friend is worth ten thousand relatives. "</i></h5>**
+**<h5><i>" All experiences are preceded by mind, having mind as their master, created by mind. "</i></h5>**
 
-*<b>___ Euripides ___</b>*
+*<b>___ The Buddha ___</b>*
