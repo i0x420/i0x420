@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg. "</i></h5>**
+**<h5><i>" To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Theodore H. White ___</b>*
