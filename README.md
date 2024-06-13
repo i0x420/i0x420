@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" No one can make you feel inferior without your consent. "</i></h5>**
+**<h5><i>" A creative man is motivated by the desire to achieve, not by the desire to beat others. "</i></h5>**
 
-*<b>___ Eleanor Roosevelt ___</b>*
+*<b>___ Ayn Rand ___</b>*
