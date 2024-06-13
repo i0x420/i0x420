@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you wish to be a writer, write. "</i></h5>**
+**<h5><i>" Always keep an open mind and a compassionate heart. "</i></h5>**
 
-*<b>___ Epictetus ___</b>*
+*<b>___ Phil Jackson ___</b>*
