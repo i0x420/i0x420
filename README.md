@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To enjoy life, we must touch much of it lightly. "</i></h5>**
+**<h5><i>" To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself. "</i></h5>**
 
-*<b>___ Voltaire ___</b>*
+*<b>___ Thích Nhất Hạnh ___</b>*
