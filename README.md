@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All perceiving is also thinking, all reasoning is also intuition, all observation is also invention. "</i></h5>**
+**<h5><i>" When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i></h5>**
 
-*<b>___ Rudolf Arnheim ___</b>*
+*<b>___ Laozi ___</b>*
