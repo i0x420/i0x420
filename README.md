@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The energy of the mind is the essence of life. "</i></h5>**
+**<h5><i>" What you do not want done to yourself, do not do to others. "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Confucius ___</b>*
