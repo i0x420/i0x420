@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The only time to buy these is on a day with no 'y' in it. "</i></h5>**
+**<h5><i>" I will prepare and someday my chance will come. "</i></h5>**
 
-*<b>___ Warren Buffett ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
