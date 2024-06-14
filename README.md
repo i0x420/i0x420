@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It's a good thing to be satisfied with what one has. "</i></h5>**
+**<h5><i>" Beware of false knowledge; it is more dangerous than ignorance. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Bernard Shaw ___</b>*
