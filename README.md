@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" However rare true love may be, it is less so than true friendship. "</i></h5>**
+**<h5><i>" The only time to buy these is on a day with no 'y' in it. "</i></h5>**
 
-*<b>___ François de La Rochefoucauld ___</b>*
+*<b>___ Warren Buffett ___</b>*
