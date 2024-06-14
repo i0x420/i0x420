@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Wishing to be friends is quick work, but friendship is a slow ripening fruit. "</i></h5>**
+**<h5><i>" If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place. "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Nora Roberts ___</b>*
