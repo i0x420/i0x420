@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The ultimate promise of technology is to make us master of a world that we command by the push of a button. "</i></h5>**
+**<h5><i>" The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward. "</i></h5>**
 
-*<b>___ Volker Grassmuck ___</b>*
+*<b>___ Amelia Earhart ___</b>*
