@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A really great talent finds its happiness in execution. "</i></h5>**
+**<h5><i>" It's a good thing to be satisfied with what one has. "</i></h5>**
 
-*<b>___ Johann Wolfgang von Goethe ___</b>*
+*<b>___ The Buddha ___</b>*
