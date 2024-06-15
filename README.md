@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Great acts are made up of small deeds. "</i></h5>**
+**<h5><i>" You cannot have what you do not want. "</i></h5>**
 
-*<b>___ Laozi ___</b>*
+*<b>___ John Acosta ___</b>*
