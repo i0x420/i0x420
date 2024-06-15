@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Don't leave a stone unturned. It's always something, to know you have done the most you could. "</i></h5>**
+**<h5><i>" Ignorant men raise questions that wise men answered a thousand years ago. "</i></h5>**
 
-*<b>___ Charles Dickens ___</b>*
+*<b>___ Johann Wolfgang von Goethe ___</b>*
