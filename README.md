@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care. "</i></h5>**
+**<h5><i>" 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill. "</i></h5>**
 
-*<b>___ William C. Menninger ___</b>*
+*<b>___ The Buddha ___</b>*
