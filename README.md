@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate. "</i></h5>**
+**<h5><i>" When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us. "</i></h5>**
 
-*<b>___ Zhuang Zhou ___</b>*
+*<b>___ Helen Keller ___</b>*
