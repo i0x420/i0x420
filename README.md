@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All perceiving is also thinking, all reasoning is also intuition, all observation is also invention. "</i></h5>**
+**<h5><i>" I cannot always control what goes on outside. But I can always control what goes on inside. "</i></h5>**
 
-*<b>___ Rudolf Arnheim ___</b>*
+*<b>___ Wayne Dyer ___</b>*
