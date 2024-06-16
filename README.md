@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. "</i></h5>**
+**<h5><i>" Kind words can be short and easy to speak, but their echoes are truly endless. "</i></h5>**
 
-*<b>___ Carrie Snow ___</b>*
+*<b>___ Mother Teresa ___</b>*
