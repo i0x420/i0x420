@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match. "</i></h5>**
+**<h5><i>" All this modern technology just makes people try to do everything at once. "</i></h5>**
 
-*<b>___ Mia Hamm ___</b>*
+*<b>___ Bill Watterson ___</b>*
