@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Sooner or later, those who win are those who think they can. "</i></h5>**
+**<h5><i>" Think for yourselves and let others enjoy the privilege to do so too. "</i></h5>**
 
-*<b>___ Richard Bach ___</b>*
+*<b>___ Voltaire ___</b>*
