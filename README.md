@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Think for yourselves and let others enjoy the privilege to do so too. "</i></h5>**
+**<h5><i>" It is not fair to ask of others what you are unwilling to do yourself. "</i></h5>**
 
-*<b>___ Voltaire ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
