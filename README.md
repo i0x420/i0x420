@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing. "</i></h5>**
+**<h5><i>" Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ John F. Kennedy ___</b>*
