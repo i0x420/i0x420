@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A friend is one who knows you and loves you just the same. "</i></h5>**
+**<h5><i>" The more light you allow within you, the brighter the world you live in will be. "</i></h5>**
 
-*<b>___ Elbert Hubbard ___</b>*
+*<b>___ Shakti Gawain ___</b>*
