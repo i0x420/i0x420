@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Dost thou love life? Then do not squander time, for that is the stuff life is made of. "</i></h5>**
+**<h5><i>" You are that vast thing that you see far, far off with great telescopes. "</i></h5>**
 
-*<b>___ Benjamin Franklin ___</b>*
+*<b>___ Alan Watts ___</b>*
