@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith. "</i></h5>**
+**<h5><i>" Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community. "</i></h5>**
 
-*<b>___ Gordon Hinckley ___</b>*
+*<b>___ Steven Van Zandt ___</b>*
