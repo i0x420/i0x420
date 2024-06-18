@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A thing long expected takes the form of the unexpected when at last it comes. "</i></h5>**
+**<h5><i>" Do good by stealth, and blush to find it fame. "</i></h5>**
 
-*<b>___ Mark Twain ___</b>*
+*<b>___ Alexander Pope ___</b>*
