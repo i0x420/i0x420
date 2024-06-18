@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" However rare true love may be, it is less so than true friendship. "</i></h5>**
+**<h5><i>" Tragedy is a tool for the living to gain wisdom, not a guide by which to live. "</i></h5>**
 
-*<b>___ François de La Rochefoucauld ___</b>*
+*<b>___ Robert F. Kennedy ___</b>*
