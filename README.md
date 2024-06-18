@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The more light you allow within you, the brighter the world you live in will be. "</i></h5>**
+**<h5><i>" If I know what love is, it is because of you. "</i></h5>**
 
-*<b>___ Shakti Gawain ___</b>*
+*<b>___ Hermann Hesse ___</b>*
