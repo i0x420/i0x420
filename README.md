@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you have a harem of 40 women, you never get to know any of them very well. "</i></h5>**
+**<h5><i>" Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i></h5>**
 
-*<b>___ Warren Buffett ___</b>*
+*<b>___ Samuel Beckett ___</b>*
