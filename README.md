@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Respect should be earned by actions, and not acquired by years. "</i></h5>**
+**<h5><i>" But man is not made for defeat. A man can be destroyed but not defeated. "</i></h5>**
 
-*<b>___ Frank Lloyd Wright ___</b>*
+*<b>___ Ernest Hemingway ___</b>*
