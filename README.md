@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are. "</i></h5>**
+**<h5><i>" Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort. "</i></h5>**
 
-*<b>___ Bernice Reagon ___</b>*
+*<b>___ Charles Dickens ___</b>*
