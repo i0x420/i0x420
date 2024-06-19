@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We can only learn to love by loving. "</i></h5>**
+**<h5><i>" The man of knowledge must be able not only to love his enemies but also to hate his friends. "</i></h5>**
 
-*<b>___ Iris Murdoch ___</b>*
+*<b>___ Friedrich Nietzsche ___</b>*
