@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Nothing in life is so exhilarating as to be shot at without result. "</i></h5>**
+**<h5><i>" It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Henry Ward Beecher ___</b>*
