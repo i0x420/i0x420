@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The best preparation for tomorrow is doing your best today. "</i></h5>**
+**<h5><i>" He who is fixed to a star does not change his mind. "</i></h5>**
 
-*<b>___ H. Jackson Brown Jr. ___</b>*
+*<b>___ Leonardo da Vinci ___</b>*
