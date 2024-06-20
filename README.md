@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. "</i></h5>**
+**<h5><i>" A long habit of not thinking a thing wrong gives it a superficial appearance of being right. "</i></h5>**
 
-*<b>___ Marie Curie ___</b>*
+*<b>___ Thomas Paine ___</b>*
