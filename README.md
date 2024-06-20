@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Opportunity is missed by most people because it is dressed in overalls and looks like work. "</i></h5>**
+**<h5><i>" The best preparation for tomorrow is doing your best today. "</i></h5>**
 
-*<b>___ Thomas Edison ___</b>*
+*<b>___ H. Jackson Brown Jr. ___</b>*
