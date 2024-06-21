@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind. "</i></h5>**
+**<h5><i>" It is not fair to ask of others what you are unwilling to do yourself. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
