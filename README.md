@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Keep yourself to the sunshine and you cannot see the shadow. "</i></h5>**
+**<h5><i>" The foolish man seeks happiness in the distance, the wise grows it under his feet. "</i></h5>**
 
-*<b>___ Helen Keller ___</b>*
+*<b>___ James Oppenheim ___</b>*
