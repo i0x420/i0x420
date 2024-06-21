@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The possibilities are numerous once we decide to act and not react. "</i></h5>**
+**<h5><i>" Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others. "</i></h5>**
 
-*<b>___ George Bernard Shaw ___</b>*
+*<b>___ Winston Churchill ___</b>*
