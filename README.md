@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" In friendship as well as love, ignorance very often contributes more to our happiness than knowledge. "</i></h5>**
+**<h5><i>" I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise. "</i></h5>**
 
-*<b>___ François de La Rochefoucauld ___</b>*
+*<b>___ John Keats ___</b>*
