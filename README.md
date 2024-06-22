@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A successful person is one who can lay a firm foundation with the bricks that others throw at him or her. "</i></h5>**
+**<h5><i>" When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless. "</i></h5>**
 
-*<b>___ David Brinkley ___</b>*
+*<b>___ Pema Chödrön ___</b>*
