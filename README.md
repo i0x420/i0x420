@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I am always doing that which I cannot do, in order that I may learn how to do it. "</i></h5>**
+**<h5><i>" Whenever you find yourself on the side of the majority, it is time to pause and reflect. "</i></h5>**
 
-*<b>___ Pablo Picasso ___</b>*
+*<b>___ Mark Twain ___</b>*
