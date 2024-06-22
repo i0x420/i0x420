@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Some people are born on third base and go through life thinking they hit a triple. "</i></h5>**
+**<h5><i>" The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for. "</i></h5>**
 
-*<b>___ Barry Switzer ___</b>*
+*<b>___ Oscar Wilde ___</b>*
