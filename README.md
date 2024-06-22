@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it. "</i></h5>**
+**<h5><i>" It is the quality of our work which will please God, not the quantity. "</i></h5>**
 
-*<b>___ Hugh Jackman ___</b>*
+*<b>___ Mahatma Gandhi ___</b>*
