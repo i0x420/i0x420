@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To fly, we have to have resistance. "</i></h5>**
+**<h5><i>" I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder. "</i></h5>**
 
-*<b>___ Maya Lin ___</b>*
+*<b>___ G. K. Chesterton ___</b>*
