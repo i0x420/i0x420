@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You always succeed in producing a result. "</i></h5>**
+**<h5><i>" You can't win unless you learn how to lose. "</i></h5>**
 
-*<b>___ Tony Robbins ___</b>*
+*<b>___ Kareem Abdul-Jabbar ___</b>*
