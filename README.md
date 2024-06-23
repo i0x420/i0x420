@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Love is rarer than genius itself. And friendship is rarer than love. "</i></h5>**
+**<h5><i>" If one is lucky, a solitary fantasy can totally transform one million realities. "</i></h5>**
 
-*<b>___ Charles Péguy ___</b>*
+*<b>___ Maya Angelou ___</b>*
