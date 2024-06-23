@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All truths are easy to understand once they are discovered; the point is to discover them. "</i></h5>**
+**<h5><i>" Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations. "</i></h5>**
 
-*<b>___ Galileo Galilei ___</b>*
+*<b>___ Alan Watts ___</b>*
