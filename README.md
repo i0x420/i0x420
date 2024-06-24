@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The sum of wisdom is that time is never lost that is devoted to work. "</i></h5>**
+**<h5><i>" Can you imagine what I would do if I could do all I can? "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Sun Tzu ___</b>*
