@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" People don't notice whether it's winter or summer when they're happy. "</i></h5>**
+**<h5><i>" A friend is what the heart needs all the time. "</i></h5>**
 
-*<b>___ Anton Chekhov ___</b>*
+*<b>___ Henry van Dyke Jr. ___</b>*
