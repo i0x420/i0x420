@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When you doubt your power, you give power to your doubt. "</i></h5>**
+**<h5><i>" We cannot solve our problems with the same thinking we used when we created them. "</i></h5>**
 
-*<b>___ Honoré de Balzac ___</b>*
+*<b>___ Albert Einstein ___</b>*
