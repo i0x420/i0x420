@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom. "</i></h5>**
+**<h5><i>" Three things cannot be long hidden: the sun, the moon, and the truth. "</i></h5>**
 
-*<b>___ Theodore Isaac Rubin ___</b>*
+*<b>___ The Buddha ___</b>*
