@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is not enough to have a good mind; the main thing is to use it well. "</i></h5>**
+**<h5><i>" Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins. "</i></h5>**
 
-*<b>___ René Descartes ___</b>*
+*<b>___ Charles Eastman ___</b>*
