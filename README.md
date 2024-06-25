@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Beware of missing chances; otherwise it may be altogether too late someday. "</i></h5>**
+**<h5><i>" Those that know, do. Those that understand, teach. "</i></h5>**
 
-*<b>___ Franz Liszt ___</b>*
+*<b>___ Aristotle ___</b>*
