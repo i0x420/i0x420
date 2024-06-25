@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose. "</i></h5>**
+**<h5><i>" Freedom is not worth having if it does not connote freedom to err. "</i></h5>**
 
-*<b>___ Eknath Easwaran ___</b>*
+*<b>___ Mahatma Gandhi ___</b>*
