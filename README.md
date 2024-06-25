@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Believe you can and you're halfway there. "</i></h5>**
+**<h5><i>" Everything that exists is in a manner the seed of that which will be. "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ Marcus Aurelius ___</b>*
