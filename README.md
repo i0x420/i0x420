@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" He who lives in harmony with himself lives in harmony with the universe. "</i></h5>**
+**<h5><i>" All great men are gifted with intuition. They know without reasoning or analysis, what they need to know. "</i></h5>**
 
-*<b>___ Marcus Aurelius ___</b>*
+*<b>___ Alexis Carrel ___</b>*
