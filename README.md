@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i></h5>**
+**<h5><i>" Pick battles big enough to matter, small enough to win. "</i></h5>**
 
-*<b>___ Chuck Swindoll ___</b>*
+*<b>___ Jonathan Kozol ___</b>*
