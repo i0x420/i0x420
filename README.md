@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Nothing could be worse than the fear that one had given up too soon and left one unexpended effort that might have saved the world. "</i></h5>**
+**<h5><i>" Opportunity does not knock, it presents itself when you beat down the door. "</i></h5>**
 
-*<b>___ Jane Addams ___</b>*
+*<b>___ Kyle Chandler ___</b>*
