@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Logic will get you from A to B. Imagination will take you everywhere. "</i></h5>**
+**<h5><i>" It is only with the heart that one can see rightly, what is essential is invisible to the eye. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Antoine de Saint-Exupéry ___</b>*
