@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" In wartime, truth is so precious that she should always be attended by a bodyguard of lies. "</i></h5>**
+**<h5><i>" Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Voltaire ___</b>*
