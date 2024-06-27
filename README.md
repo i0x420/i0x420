@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered. "</i></h5>**
+**<h5><i>" The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom. "</i></h5>**
 
-*<b>___ Nelson Mandela ___</b>*
+*<b>___ Isaac Asimov ___</b>*
