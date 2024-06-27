@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If there is such a thing as a good marriage, it is because it resembles friendship rather than love. "</i></h5>**
+**<h5><i>" Wise men speak because they have something to say; Fools because they have to say something. "</i></h5>**
 
-*<b>___ Michel de Montaigne ___</b>*
+*<b>___ Plato ___</b>*
