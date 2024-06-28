@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Our strength grows out of our weaknesses. "</i></h5>**
+**<h5><i>" Trying to define yourself is like trying to bite your own teeth. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Alan Watts ___</b>*
