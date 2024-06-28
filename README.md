@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If the shoe doesn't fit, must we change the foot? "</i></h5>**
+**<h5><i>" Silence at the proper season is wisdom, and better than any speech. "</i></h5>**
 
-*<b>___ Gloria Steinem ___</b>*
+*<b>___ Plutarch ___</b>*
