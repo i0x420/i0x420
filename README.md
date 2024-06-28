@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other. "</i></h5>**
+**<h5><i>" I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act. "</i></h5>**
 
-*<b>___ Carrie Snow ___</b>*
+*<b>___ G. K. Chesterton ___</b>*
