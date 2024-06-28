@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present. "</i></h5>**
+**<h5><i>" I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. "</i></h5>**
 
-*<b>___ Joan Rivers ___</b>*
+*<b>___ Kurt Vonnegut ___</b>*
