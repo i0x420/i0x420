@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We have two ears and one mouth so that we can listen twice as much as we speak. "</i></h5>**
+**<h5><i>" Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing. "</i></h5>**
 
-*<b>___ Epictetus ___</b>*
+*<b>___ Mother Teresa ___</b>*
