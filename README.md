@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All this modern technology just makes people try to do everything at once. "</i></h5>**
+**<h5><i>" Only when we are no longer afraid do we begin to live. "</i></h5>**
 
-*<b>___ Bill Watterson ___</b>*
+*<b>___ Dorothy Thompson ___</b>*
