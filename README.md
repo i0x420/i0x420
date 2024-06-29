@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Difficulties are things that show a person what they are. "</i></h5>**
+**<h5><i>" Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open. "</i></h5>**
 
-*<b>___ Epictetus ___</b>*
+*<b>___ Pauline Kael ___</b>*
