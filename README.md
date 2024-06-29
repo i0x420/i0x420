@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise. "</i></h5>**
+**<h5><i>" Lose an hour in the morning, and you will spend all day looking for it. "</i></h5>**
 
-*<b>___ Anne Brontë ___</b>*
+*<b>___ Richard Whately ___</b>*
