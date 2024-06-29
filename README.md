@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The energy of the mind is the essence of life. "</i></h5>**
+**<h5><i>" Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there? "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Richard Bach ___</b>*
