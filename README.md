@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All our knowledge has its origins in our perceptions. "</i></h5>**
+**<h5><i>" The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. "</i></h5>**
 
-*<b>___ Leonardo da Vinci ___</b>*
+*<b>___ Eckhart Tolle ___</b>*
