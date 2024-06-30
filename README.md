@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Decision is a risk rooted in the courage of being free. "</i></h5>**
+**<h5><i>" So is cheerfulness, or a good temper, the more it is spent, the more remains. "</i></h5>**
 
-*<b>___ Paul Tillich ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
