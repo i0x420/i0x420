@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life without love is like a tree without blossoms or fruit. "</i></h5>**
+**<h5><i>" Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not. "</i></h5>**
 
-*<b>___ Kahlil Gibran ___</b>*
+*<b>___ Dhammapada ___</b>*
