@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It has become appallingly obvious that our technology has exceeded our humanity. "</i></h5>**
+**<h5><i>" Everyone thinks of changing the world, but no one thinks of changing himself. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Leo Tolstoy ___</b>*
