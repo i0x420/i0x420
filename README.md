@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is the quality of our work which will please God, not the quantity. "</i></h5>**
+**<h5><i>" What you get by achieving your goals is not as important as what you become by achieving your goals. "</i></h5>**
 
-*<b>___ Mahatma Gandhi ___</b>*
+*<b>___ Zig Ziglar ___</b>*
