@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Never find fault with the absent. "</i></h5>**
+**<h5><i>" Everything in the universe goes by indirection. There are no straight lines. "</i></h5>**
 
-*<b>___ Alexander Pope ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
