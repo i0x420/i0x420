@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" True friends stab you in the front. "</i></h5>**
+**<h5><i>" Never, never, never give up. "</i></h5>**
 
-*<b>___ Oscar Wilde ___</b>*
+*<b>___ Winston Churchill ___</b>*
