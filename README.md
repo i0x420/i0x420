@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Quality means doing it right when no one is looking. "</i></h5>**
+**<h5><i>" In all things of nature there is something of the marvelous. "</i></h5>**
 
-*<b>___ Henry Ford ___</b>*
+*<b>___ Aristotle ___</b>*
