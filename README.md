@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy. "</i></h5>**
+**<h5><i>" I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok. "</i></h5>**
 
-*<b>___ Wayne Dyer ___</b>*
+*<b>___ Shaquille O'Neal ___</b>*
