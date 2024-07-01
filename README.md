@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is the quality of our work which will please God, not the quantity. "</i></h5>**
+**<h5><i>" It is not only for what we do that we are held responsible, but also for what we do not do. "</i></h5>**
 
-*<b>___ Mahatma Gandhi ___</b>*
+*<b>___ Molière ___</b>*
