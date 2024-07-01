@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Failure doesn't mean you are a failure it just means you haven't succeeded yet. "</i></h5>**
+**<h5><i>" Every man is a volume if you know how to read him. "</i></h5>**
 
-*<b>___ Robert Schuller ___</b>*
+*<b>___ William Ellery Channing ___</b>*
