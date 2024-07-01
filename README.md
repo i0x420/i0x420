@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Knowledge is proud that it knows so much; wisdom is humble that it knows no more. "</i></h5>**
+**<h5><i>" The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief. "</i></h5>**
 
-*<b>___ William Cowper ___</b>*
+*<b>___ Johann Wolfgang von Goethe ___</b>*
