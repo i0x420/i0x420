@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If a man watches three football games in a row, he should be declared legally dead. "</i></h5>**
+**<h5><i>" Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it. "</i></h5>**
 
-*<b>___ Erma Bombeck ___</b>*
+*<b>___ Oprah Winfrey ___</b>*
