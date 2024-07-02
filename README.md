@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Set your goals high, and don't stop till you get there. "</i></h5>**
+**<h5><i>" You are the only person on earth who can use your ability. "</i></h5>**
 
-*<b>___ Bo Jackson ___</b>*
+*<b>___ Zig Ziglar ___</b>*
