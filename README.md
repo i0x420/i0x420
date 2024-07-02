@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The beginning of knowledge is the discovery of something we do not understand. "</i></h5>**
+**<h5><i>" We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us. "</i></h5>**
 
-*<b>___ Frank Herbert ___</b>*
+*<b>___ Marcel Proust ___</b>*
