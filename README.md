@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity. "</i></h5>**
+**<h5><i>" When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self. "</i></h5>**
 
-*<b>___ William C. Menninger ___</b>*
+*<b>___ Confucius ___</b>*
