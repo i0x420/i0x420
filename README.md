@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To choose what is difficult all one's days, as if it were easy, that is faith. "</i></h5>**
+**<h5><i>" The grand essentials of happiness are: something to do, something to love, and something to hope for. "</i></h5>**
 
-*<b>___ W. H. Auden ___</b>*
+*<b>___ Alexander Chalmers ___</b>*
