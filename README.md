@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The best cure for the body is a quiet mind. "</i></h5>**
+**<h5><i>" We can change our lives. We can do, have, and be exactly what we wish. "</i></h5>**
 
-*<b>___ Napoleon ___</b>*
+*<b>___ Tony Robbins ___</b>*
