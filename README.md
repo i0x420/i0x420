@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All our knowledge has its origins in our perceptions. "</i></h5>**
+**<h5><i>" To choose what is difficult all one's days, as if it were easy, that is faith. "</i></h5>**
 
-*<b>___ Leonardo da Vinci ___</b>*
+*<b>___ W. H. Auden ___</b>*
