@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out. "</i></h5>**
+**<h5><i>" A thing long expected takes the form of the unexpected when at last it comes. "</i></h5>**
 
-*<b>___ Walter Benjamin ___</b>*
+*<b>___ Mark Twain ___</b>*
