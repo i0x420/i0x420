@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Let us always meet each other with smile, for the smile is the beginning of love. "</i></h5>**
+**<h5><i>" Courage is going from failure to failure without losing enthusiasm. "</i></h5>**
 
-*<b>___ Mother Teresa ___</b>*
+*<b>___ Winston Churchill ___</b>*
