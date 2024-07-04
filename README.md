@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Lose an hour in the morning, and you will spend all day looking for it. "</i></h5>**
+**<h5><i>" Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you. "</i></h5>**
 
-*<b>___ Richard Whately ___</b>*
+*<b>___ Richard Bach ___</b>*
