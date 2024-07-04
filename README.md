@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Our most intimate friend is not he to whom we show the worst, but the best of our nature. "</i></h5>**
+**<h5><i>" I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence. "</i></h5>**
 
-*<b>___ Nathaniel Hawthorne ___</b>*
+*<b>___ Frederick Douglass ___</b>*
