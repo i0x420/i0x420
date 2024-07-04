@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Those who dream by day are cognizant of many things which escape those who dream only by night. "</i></h5>**
+**<h5><i>" True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation. "</i></h5>**
 
-*<b>___ Edgar Allan Poe ___</b>*
+*<b>___ George Washington ___</b>*
