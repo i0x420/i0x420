@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Nothing in life is to be feared. It is only to be understood. "</i></h5>**
+**<h5><i>" Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. "</i></h5>**
 
-*<b>___ Marie Curie ___</b>*
+*<b>___ Norman Vincent Peale ___</b>*
