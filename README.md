@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Courage is going from failure to failure without losing enthusiasm. "</i></h5>**
+**<h5><i>" Many of life's failures are people who did not realize how close they were to success when they gave up. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Thomas Edison ___</b>*
