@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Mistakes are the usual bridge between inexperience and wisdom. "</i></h5>**
+**<h5><i>" Tragedy is a tool for the living to gain wisdom, not a guide by which to live. "</i></h5>**
 
-*<b>___ Phyllis Grissim-Theroux ___</b>*
+*<b>___ Robert F. Kennedy ___</b>*
