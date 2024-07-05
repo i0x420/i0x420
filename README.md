@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I destroy my enemies when I make them my friends. "</i></h5>**
+**<h5><i>" There is only one corner of the universe you can be certain of improving, and that's your own self. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Aldous Huxley ___</b>*
