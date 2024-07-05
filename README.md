@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes. "</i></h5>**
+**<h5><i>" A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Fawn M. Brodie ___</b>*
