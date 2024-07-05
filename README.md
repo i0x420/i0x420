@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present. "</i></h5>**
+**<h5><i>" Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you. "</i></h5>**
 
-*<b>___ Joan Rivers ___</b>*
+*<b>___ Nathaniel Hawthorne ___</b>*
