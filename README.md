@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you cannot do great things, do small things in a great way. "</i></h5>**
+**<h5><i>" The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Helen Keller ___</b>*
