@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart. "</i></h5>**
+**<h5><i>" The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it. "</i></h5>**
 
-*<b>___ Nelson Mandela ___</b>*
+*<b>___ Reinhold Niebuhr ___</b>*
