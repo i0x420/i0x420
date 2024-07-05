@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" He who is fixed to a star does not change his mind. "</i></h5>**
+**<h5><i>" We know the truth, not only by the reason, but by the heart. "</i></h5>**
 
-*<b>___ Leonardo da Vinci ___</b>*
+*<b>___ Blaise Pascal ___</b>*
