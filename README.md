@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The best thing about the future is that it only comes one day at a time. "</i></h5>**
+**<h5><i>" If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Nelson Mandela ___</b>*
