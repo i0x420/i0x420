@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit. "</i></h5>**
+**<h5><i>" In the depth of winter, I finally learned that there was within me an invincible summer. "</i></h5>**
 
-*<b>___ Elbert Hubbard ___</b>*
+*<b>___ Albert Camus ___</b>*
