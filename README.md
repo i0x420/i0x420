@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!' "</i></h5>**
+**<h5><i>" The beginning of knowledge is the discovery of something we do not understand. "</i></h5>**
 
-*<b>___ Bill Bradley ___</b>*
+*<b>___ Frank Herbert ___</b>*
