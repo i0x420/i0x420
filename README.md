@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is only with the heart that one can see rightly, what is essential is invisible to the eye. "</i></h5>**
+**<h5><i>" Gratitude is not only the greatest of virtues, but the parent of all the others. "</i></h5>**
 
-*<b>___ Antoine de Saint-Exupéry ___</b>*
+*<b>___ Cicero ___</b>*
