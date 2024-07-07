@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Share your smile with the world. It's a symbol of friendship and peace. "</i></h5>**
+**<h5><i>" If we are not fully ourselves, truly in the present moment, we miss everything. "</i></h5>**
 
-*<b>___ Christie Brinkley ___</b>*
+*<b>___ Thích Nhất Hạnh ___</b>*
