@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" He who lives in harmony with himself lives in harmony with the universe. "</i></h5>**
+**<h5><i>" When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid. "</i></h5>**
 
-*<b>___ Marcus Aurelius ___</b>*
+*<b>___ Audre Lorde ___</b>*
