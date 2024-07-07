@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Independence is happiness. "</i></h5>**
+**<h5><i>" We may encounter many defeats, but we must not be defeated. "</i></h5>**
 
-*<b>___ Susan B. Anthony ___</b>*
+*<b>___ Maya Angelou ___</b>*
