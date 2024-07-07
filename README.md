@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid. "</i></h5>**
+**<h5><i>" Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues. "</i></h5>**
 
-*<b>___ Audre Lorde ___</b>*
+*<b>___ Abigail Adams ___</b>*
