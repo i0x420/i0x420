@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Problems are only opportunities with thorns on them. "</i></h5>**
+**<h5><i>" Arriving at one point is the starting point to another. "</i></h5>**
 
-*<b>___ Hugh Miller ___</b>*
+*<b>___ John Dewey ___</b>*
