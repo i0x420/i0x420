@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" How wonderful that we have met with a paradox. Now we have some hope of making progress. "</i></h5>**
+**<h5><i>" To find a man's true character, play golf with him. "</i></h5>**
 
-*<b>___ Niels Bohr ___</b>*
+*<b>___ P. G. Wodehouse ___</b>*
