@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Setting an example is not the main means of influencing another, it is the only means. "</i></h5>**
+**<h5><i>" What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ The Buddha ___</b>*
