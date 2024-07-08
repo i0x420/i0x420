@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Technology is teaching us to be human again. "</i></h5>**
+**<h5><i>" There is no retirement for an artist, it's your way of living so there is no end to it. "</i></h5>**
 
-*<b>___ Simon Mainwaring ___</b>*
+*<b>___ Henry Moore ___</b>*
