@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever. "</i></h5>**
+**<h5><i>" The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself. "</i></h5>**
 
-*<b>___ Woody Allen ___</b>*
+*<b>___ Henry Miller ___</b>*
