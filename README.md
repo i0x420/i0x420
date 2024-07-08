@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "</i></h5>**
+**<h5><i>" If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever. "</i></h5>**
 
-*<b>___ George Washington ___</b>*
+*<b>___ Woody Allen ___</b>*
