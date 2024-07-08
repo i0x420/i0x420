@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When deeds and words are in accord, the whole world is transformed. "</i></h5>**
+**<h5><i>" Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too. "</i></h5>**
 
-*<b>___ Zhuang Zhou ___</b>*
+*<b>___ Marcus Aurelius ___</b>*
