@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship is one mind in two bodies. "</i></h5>**
+**<h5><i>" To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do. "</i></h5>**
 
-*<b>___ Mencius ___</b>*
+*<b>___ Kahlil Gibran ___</b>*
