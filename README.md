@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary. "</i></h5>**
+**<h5><i>" Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all. "</i></h5>**
 
-*<b>___ Margaret Cousins ___</b>*
+*<b>___ Dale Carnegie ___</b>*
