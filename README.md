@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Dost thou love life? Then do not squander time, for that is the stuff life is made of. "</i></h5>**
+**<h5><i>" However rare true love may be, it is less so than true friendship. "</i></h5>**
 
-*<b>___ Benjamin Franklin ___</b>*
+*<b>___ François de La Rochefoucauld ___</b>*
