@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace. "</i></h5>**
+**<h5><i>" The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Hugh Jackman ___</b>*
