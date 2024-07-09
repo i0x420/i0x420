@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Most people are about as happy as they make up their minds to be "</i></h5>**
+**<h5><i>" Try not to become a man of success, but rather try to become a man of value. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Albert Einstein ___</b>*
