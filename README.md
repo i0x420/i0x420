@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Those who dream by day are cognizant of many things which escape those who dream only by night. "</i></h5>**
+**<h5><i>" Commitment is an act, not a word. "</i></h5>**
 
-*<b>___ Edgar Allan Poe ___</b>*
+*<b>___ Jean-Paul Sartre ___</b>*
