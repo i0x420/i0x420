@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief. "</i></h5>**
+**<h5><i>" A day of worry is more exhausting than a day of work. "</i></h5>**
 
-*<b>___ Cicero ___</b>*
+*<b>___ John Lubbock ___</b>*
