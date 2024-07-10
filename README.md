@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more "</i></h5>**
+**<h5><i>" When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run. "</i></h5>**
 
-*<b>___ Tony Robbins ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
