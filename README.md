@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The least movement is of importance to all nature. The entire ocean is affected by a pebble. "</i></h5>**
+**<h5><i>" I am a man of fixed and unbending principles, the first of which is to be flexible at all times. "</i></h5>**
 
-*<b>___ Blaise Pascal ___</b>*
+*<b>___ Everett Dirksen ___</b>*
