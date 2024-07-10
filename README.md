@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Failure doesn't mean you are a failure it just means you haven't succeeded yet. "</i></h5>**
+**<h5><i>" It is not only for what we do that we are held responsible, but also for what we do not do. "</i></h5>**
 
-*<b>___ Robert Schuller ___</b>*
+*<b>___ Molière ___</b>*
