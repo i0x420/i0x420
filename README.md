@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The extreme limit of wisdom, that's what the public calls madness. "</i></h5>**
+**<h5><i>" Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well. "</i></h5>**
 
-*<b>___ Jean Cocteau ___</b>*
+*<b>___ Warren Buffett ___</b>*
