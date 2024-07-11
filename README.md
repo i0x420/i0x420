@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Effort only fully releases its reward after a person refuses to quit. "</i></h5>**
+**<h5><i>" In action a great heart is the chief qualification. In work, a great head. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Arthur Schopenhauer ___</b>*
