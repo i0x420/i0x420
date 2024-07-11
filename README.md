@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I can't imagine a person becoming a success who doesn't give this game of life everything he's got. "</i></h5>**
+**<h5><i>" Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom. "</i></h5>**
 
-*<b>___ Walter Cronkite ___</b>*
+*<b>___ Theodore Isaac Rubin ___</b>*
