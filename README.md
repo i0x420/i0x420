@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A day of worry is more exhausting than a day of work. "</i></h5>**
+**<h5><i>" To improve is to change; to be perfect is to change often. "</i></h5>**
 
-*<b>___ John Lubbock ___</b>*
+*<b>___ Winston Churchill ___</b>*
