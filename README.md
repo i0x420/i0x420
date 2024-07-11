@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime. "</i></h5>**
+**<h5><i>" Think big thoughts but relish small pleasures. "</i></h5>**
 
-*<b>___ Laozi ___</b>*
+*<b>___ H. Jackson Brown Jr. ___</b>*
