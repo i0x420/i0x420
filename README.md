@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Let your hook always be cast; in the pool where you least expect it, there will be a fish. "</i></h5>**
+**<h5><i>" This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature. "</i></h5>**
 
-*<b>___ Ovid ___</b>*
+*<b>___ Don DeLillo ___</b>*
