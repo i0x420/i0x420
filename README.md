@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work. "</i></h5>**
+**<h5><i>" A wise man can learn more from a foolish question than a fool can learn from a wise answer. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Bruce Lee ___</b>*
