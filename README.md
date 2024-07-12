@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless. "</i></h5>**
+**<h5><i>" Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party. "</i></h5>**
 
-*<b>___ Pema Chödrön ___</b>*
+*<b>___ Hanya Yanagihara ___</b>*
