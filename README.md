@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The supreme art of war is to subdue the enemy without fighting. "</i></h5>**
+**<h5><i>" He is no fool who gives what he cannot keep to gain what he cannot lose. "</i></h5>**
 
-*<b>___ Sun Tzu ___</b>*
+*<b>___ Jim Elliot ___</b>*
