@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" He who conquers others is strong; He who conquers himself is mighty. "</i></h5>**
+**<h5><i>" When you learn, teach. When you get, give. "</i></h5>**
 
-*<b>___ Laozi ___</b>*
+*<b>___ Maya Angelou ___</b>*
