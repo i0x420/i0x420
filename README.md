@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Failure will never overtake me if my determination to succeed is strong enough. "</i></h5>**
+**<h5><i>" Every man is a volume if you know how to read him. "</i></h5>**
 
-*<b>___ Og Mandino ___</b>*
+*<b>___ William Ellery Channing ___</b>*
