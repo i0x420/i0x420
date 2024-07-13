@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We cannot do everything at once, but we can do something at once. "</i></h5>**
+**<h5><i>" One that desires to excel should endeavor in those things that are in themselves most excellent. "</i></h5>**
 
-*<b>___ Calvin Coolidge ___</b>*
+*<b>___ Epictetus ___</b>*
