@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The only limit to your impact is your imagination and commitment. "</i></h5>**
+**<h5><i>" If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing. "</i></h5>**
 
-*<b>___ Tony Robbins ___</b>*
+*<b>___ Margaret Thatcher ___</b>*
