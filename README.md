@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We cannot solve our problems with the same thinking we used when we created them. "</i></h5>**
+**<h5><i>" A man cannot be said to succeed in this life who does not satisfy one friend. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Henry David Thoreau ___</b>*
