@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All our knowledge has its origins in our perceptions. "</i></h5>**
+**<h5><i>" Problems are only opportunities with thorns on them. "</i></h5>**
 
-*<b>___ Leonardo da Vinci ___</b>*
+*<b>___ Hugh Miller ___</b>*
