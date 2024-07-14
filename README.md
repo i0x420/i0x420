@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Eighty percent of success is showing up. "</i></h5>**
+**<h5><i>" All our knowledge has its origins in our perceptions. "</i></h5>**
 
-*<b>___ Woody Allen ___</b>*
+*<b>___ Leonardo da Vinci ___</b>*
