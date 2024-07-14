@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer. "</i></h5>**
+**<h5><i>" There never was a good knife made of bad steel. "</i></h5>**
 
-*<b>___ Robert Graves ___</b>*
+*<b>___ Benjamin Franklin ___</b>*
