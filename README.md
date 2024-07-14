@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Don't look back. Something might be gaining on you. "</i></h5>**
+**<h5><i>" If you don't know where you are going, you will probably end up somewhere else. "</i></h5>**
 
-*<b>___ Satchel Paige ___</b>*
+*<b>___ Laurence J. Peter ___</b>*
