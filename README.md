@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Imagination is more important than knowledge... "</i></h5>**
+**<h5><i>" You cannot step twice into the same river, for other waters are continually flowing in. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Heraclitus ___</b>*
