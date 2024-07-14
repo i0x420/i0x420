@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone. "</i></h5>**
+**<h5><i>" The fox has many tricks. The hedgehog has but one. But that is the best of all. "</i></h5>**
 
-*<b>___ John Burroughs ___</b>*
+*<b>___ Erasmus ___</b>*
