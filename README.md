@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Small opportunities are often the beginning of great enterprises. "</i></h5>**
+**<h5><i>" One fails forward toward success. "</i></h5>**
 
-*<b>___ Demosthenes ___</b>*
+*<b>___ Charles F. Kettering ___</b>*
