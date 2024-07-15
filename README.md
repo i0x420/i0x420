@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can. "</i></h5>**
+**<h5><i>" An organization, no matter how well designed, is only as good as the people who live and work in it. "</i></h5>**
 
-*<b>___ Bernard Shaw ___</b>*
+*<b>___ Dee Hock ___</b>*
