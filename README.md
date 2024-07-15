@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Ignorant men raise questions that wise men answered a thousand years ago. "</i></h5>**
+**<h5><i>" It isn't where you come from, it's where you're going that counts. "</i></h5>**
 
-*<b>___ Johann Wolfgang von Goethe ___</b>*
+*<b>___ Ella Fitzgerald ___</b>*
