@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To listen well is as powerful a means of communication and influence as to talk well. "</i></h5>**
+**<h5><i>" Small opportunities are often the beginning of great enterprises. "</i></h5>**
 
-*<b>___ John Marshall ___</b>*
+*<b>___ Demosthenes ___</b>*
