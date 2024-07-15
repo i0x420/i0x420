@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself. "</i></h5>**
+**<h5><i>" The only thing to do with good advice is to pass it on. It is never of any use to oneself. "</i></h5>**
 
-*<b>___ Kahlil Gibran ___</b>*
+*<b>___ Oscar Wilde ___</b>*
