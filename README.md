@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There is more wisdom in your body than in your deepest philosophy. "</i></h5>**
+**<h5><i>" If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him. "</i></h5>**
 
-*<b>___ Friedrich Nietzsche ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
