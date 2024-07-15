@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When your desires are strong enough you will appear to possess superhuman powers to achieve. "</i></h5>**
+**<h5><i>" There is more wisdom in your body than in your deepest philosophy. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Friedrich Nietzsche ___</b>*
