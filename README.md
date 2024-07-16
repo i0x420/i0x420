@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The most effective way to do it, is to do it. "</i></h5>**
+**<h5><i>" We don't stop playing because we grow old; we grow old because we stop playing. "</i></h5>**
 
-*<b>___ Amelia Earhart ___</b>*
+*<b>___ Bernard Shaw ___</b>*
