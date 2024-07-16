@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered. "</i></h5>**
+**<h5><i>" Good, better, best. Never let it rest. ‘Til your good is better and your better is best. "</i></h5>**
 
-*<b>___ Nelson Mandela ___</b>*
+*<b>___ Jerome ___</b>*
