@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future. "</i></h5>**
+**<h5><i>" Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind. "</i></h5>**
 
-*<b>___ Dale Turner ___</b>*
+*<b>___ Paavo Nurmi ___</b>*
