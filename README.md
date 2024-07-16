@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To fly as fast as thought, you must begin by knowing that you have already arrived. "</i></h5>**
+**<h5><i>" We don't stop playing because we grow old; we grow old because we stop playing. "</i></h5>**
 
-*<b>___ Richard Bach ___</b>*
+*<b>___ Bernard Shaw ___</b>*
