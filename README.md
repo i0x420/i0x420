@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The wisest men follow their own direction. "</i></h5>**
+**<h5><i>" A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success. "</i></h5>**
 
-*<b>___ Euripides ___</b>*
+*<b>___ Elbert Hubbard ___</b>*
