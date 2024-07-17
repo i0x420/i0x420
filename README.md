@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I don't believe in failure. It's not failure if you enjoyed the process. "</i></h5>**
+**<h5><i>" If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you. "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ A. A. Milne ___</b>*
