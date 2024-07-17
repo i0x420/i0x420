@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down. "</i></h5>**
+**<h5><i>" There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness. "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ Dalai Lama ___</b>*
