@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others. "</i></h5>**
+**<h5><i>" Real success is finding your lifework in the work that you love. "</i></h5>**
 
-*<b>___ Tony Robbins ___</b>*
+*<b>___ David McCullough ___</b>*
