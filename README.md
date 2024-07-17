@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Better to have loved and lost, than to have never loved at all. "</i></h5>**
+**<h5><i>" To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others. "</i></h5>**
 
-*<b>___ Augustine of Hippo ___</b>*
+*<b>___ Tony Robbins ___</b>*
