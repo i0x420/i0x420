@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes. "</i></h5>**
+**<h5><i>" We can only be said to be alive in those moments when our hearts are conscious of our treasures. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Thornton Wilder ___</b>*
