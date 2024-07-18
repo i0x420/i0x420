@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All is flux; nothing stays still. "</i></h5>**
+**<h5><i>" Think as a wise man but communicate in the language of the people. "</i></h5>**
 
-*<b>___ Heraclitus ___</b>*
+*<b>___ William Butler Yeats ___</b>*
