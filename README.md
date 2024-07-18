@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Love and compassion open our own inner life, reducing stress, distrust and loneliness. "</i></h5>**
+**<h5><i>" If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Colin Powell ___</b>*
