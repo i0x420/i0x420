@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" One who is too insistent on his own views, finds few to agree with him. "</i></h5>**
+**<h5><i>" Always bear in mind that your own resolution to succeed is more important than any one thing. "</i></h5>**
 
-*<b>___ Laozi ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
