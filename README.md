@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Yesterday I dared to struggle. Today I dare to win. "</i></h5>**
+**<h5><i>" This is why I loved technology: if you used it right, it could give you power and privacy. "</i></h5>**
 
-*<b>___ Bernadette Devlin ___</b>*
+*<b>___ Cory Doctorow ___</b>*
