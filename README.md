@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All phenomena are preceded by the mind, created by the mind, and have the mind as their master. "</i></h5>**
+**<h5><i>" No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ W. Clement Stone ___</b>*
