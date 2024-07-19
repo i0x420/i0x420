@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Eighty percent of success is showing up. "</i></h5>**
+**<h5><i>" Logic will get you from A to B. Imagination will take you everywhere. "</i></h5>**
 
-*<b>___ Woody Allen ___</b>*
+*<b>___ Albert Einstein ___</b>*
