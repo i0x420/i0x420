@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I never worry about action, but only inaction. "</i></h5>**
+**<h5><i>" Joy is the best makeup. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Anne Lamott ___</b>*
