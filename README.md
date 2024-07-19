@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Luck is what happens when preparation meets opportunity. "</i></h5>**
+**<h5><i>" Sadness flies away on the wings of time. "</i></h5>**
 
-*<b>___ Seneca the Younger ___</b>*
+*<b>___ Jean de La Fontaine ___</b>*
