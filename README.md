@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life is just a chance to grow a soul. "</i></h5>**
+**<h5><i>" Just as a mother would protect her only child with her life, even so let one cultivate a boundless love towards all beings. "</i></h5>**
 
-*<b>___ A. Powell Davies ___</b>*
+*<b>___ The Buddha ___</b>*
