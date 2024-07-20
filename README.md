@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you're going through hell, keep going. "</i></h5>**
+**<h5><i>" Ideals are an imaginative understanding of that which is desirable in that which is possible. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Walter Lippmann ___</b>*
