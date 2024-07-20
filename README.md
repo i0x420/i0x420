@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" In all things of nature there is something of the marvelous. "</i></h5>**
+**<h5><i>" It's easy to make a buck. It's a lot tougher to make a difference. "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Tom Brokaw ___</b>*
