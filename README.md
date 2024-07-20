@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Real success is finding your lifework in the work that you love. "</i></h5>**
+**<h5><i>" I'm not in this world to live up to your expectations and you're not in this world to live up to mine. "</i></h5>**
 
-*<b>___ David McCullough ___</b>*
+*<b>___ Bruce Lee ___</b>*
