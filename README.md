@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it. "</i></h5>**
+**<h5><i>" In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice. "</i></h5>**
 
-*<b>___ Bruce Lee ___</b>*
+*<b>___ Richard Bach ___</b>*
