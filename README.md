@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There is not one big cosmic meaning for all, there is only the meaning we each give to our life. "</i></h5>**
+**<h5><i>" All experiences are preceded by mind, having mind as their master, created by mind. "</i></h5>**
 
-*<b>___ Anaïs Nin ___</b>*
+*<b>___ The Buddha ___</b>*
