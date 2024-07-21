@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The world is but a canvas to the imagination. "</i></h5>**
+**<h5><i>" Communications tools don't get socially interesting until they get technologically boring. "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ Clay Shirky ___</b>*
