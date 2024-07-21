@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" One of the advantages of being disorderly is that one is constantly making exciting discoveries. "</i></h5>**
+**<h5><i>" An invasion of armies can be resisted, but not an idea whose time has come. "</i></h5>**
 
-*<b>___ A. A. Milne ___</b>*
+*<b>___ Victor Hugo ___</b>*
