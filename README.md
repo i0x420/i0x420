@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The truth of the matter is that you always know the right thing to do. The hard part is doing it. "</i></h5>**
+**<h5><i>" When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run. "</i></h5>**
 
-*<b>___ Norman Schwarzkopf ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
