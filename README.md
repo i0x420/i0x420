@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I have never been hurt by anything I didn't say. "</i></h5>**
+**<h5><i>" The simplest things are often the truest. "</i></h5>**
 
-*<b>___ Calvin Coolidge ___</b>*
+*<b>___ Richard Bach ___</b>*
