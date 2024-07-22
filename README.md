@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter. "</i></h5>**
+**<h5><i>" So long as a person is capable of self-renewal they are a living being. "</i></h5>**
 
-*<b>___ Charles Lindbergh ___</b>*
+*<b>___ Henri-Frédéric Amiel ___</b>*
