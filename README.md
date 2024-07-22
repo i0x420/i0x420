@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When I do good I feel good, when I do bad I feel bad, and that's my religion. "</i></h5>**
+**<h5><i>" Keep your face always toward the sunshine - and shadows will fall behind you. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Walt Whitman ___</b>*
