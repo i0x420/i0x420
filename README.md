@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Technology is the campfire around which we tell our stories. "</i></h5>**
+**<h5><i>" Decision is a risk rooted in the courage of being free. "</i></h5>**
 
-*<b>___ Laurie Anderson ___</b>*
+*<b>___ Paul Tillich ___</b>*
