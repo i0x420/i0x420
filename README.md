@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it. "</i></h5>**
+**<h5><i>" Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius. "</i></h5>**
 
-*<b>___ Thomas Carlyle ___</b>*
+*<b>___ Wolfgang Amadeus Mozart ___</b>*
