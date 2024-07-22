@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world. "</i></h5>**
+**<h5><i>" Whenever you find yourself on the side of the majority, it is time to pause and reflect. "</i></h5>**
 
-*<b>___ Robert Louis Stevenson ___</b>*
+*<b>___ Mark Twain ___</b>*
