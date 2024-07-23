@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" No valid plans for the future can be made by those who have no capacity for living now. "</i></h5>**
+**<h5><i>" Be sure you put your feet in the right place, then stand firm. "</i></h5>**
 
-*<b>___ Alan Watts ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
