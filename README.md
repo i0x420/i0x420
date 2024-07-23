@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Be like the flower, turn your face to the sun. "</i></h5>**
+**<h5><i>" What is necessary to change a person is to change his awareness of himself. "</i></h5>**
 
-*<b>___ Kahlil Gibran ___</b>*
+*<b>___ Abraham Maslow ___</b>*
