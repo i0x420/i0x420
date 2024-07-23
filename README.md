@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I have often regretted my speech, never my silence. "</i></h5>**
+**<h5><i>" Having nothing, nothing can he lose. "</i></h5>**
 
-*<b>___ Publilius Syrus ___</b>*
+*<b>___ William Shakespeare ___</b>*
