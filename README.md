@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I know but one freedom and that is the freedom of the mind. "</i></h5>**
+**<h5><i>" Remember that sometimes not getting what you want is a wonderful stroke of luck. "</i></h5>**
 
-*<b>___ Antoine de Saint-Exupéry ___</b>*
+*<b>___ Dalai Lama ___</b>*
