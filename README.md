@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We make our own fortunes and we call them fate. "</i></h5>**
+**<h5><i>" False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports. "</i></h5>**
 
-*<b>___ Benjamin Disraeli ___</b>*
+*<b>___ Richard Burton ___</b>*
