@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes. "</i></h5>**
+**<h5><i>" Friendship without self-interest is one of the rare and beautiful things of life. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ James F. Byrnes ___</b>*
