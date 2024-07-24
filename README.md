@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports. "</i></h5>**
+**<h5><i>" The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts. "</i></h5>**
 
-*<b>___ Richard Burton ___</b>*
+*<b>___ Charles Darwin ___</b>*
