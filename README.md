@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion. "</i></h5>**
+**<h5><i>" Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal. "</i></h5>**
 
-*<b>___ Elon Musk ___</b>*
+*<b>___ Vince Lombardi ___</b>*
