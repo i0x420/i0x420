@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" What lies behind us and what lies before us are small matters compared to what lies within us. "</i></h5>**
+**<h5><i>" Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue. "</i></h5>**
 
-*<b>___ Oliver Wendell Holmes Jr. ___</b>*
+*<b>___ Edith Wharton ___</b>*
