@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Think like a man of action; act like a man of thought. "</i></h5>**
+**<h5><i>" Sooner or later, those who win are those who think they can. "</i></h5>**
 
-*<b>___ Henri Bergson ___</b>*
+*<b>___ Richard Bach ___</b>*
