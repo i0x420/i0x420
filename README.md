@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" How is it possible to find meaning in a finite world, given my waist and shirt size? "</i></h5>**
+**<h5><i>" Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born. "</i></h5>**
 
-*<b>___ Woody Allen ___</b>*
+*<b>___ Anaïs Nin ___</b>*
