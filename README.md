@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Go to your bosom: Knock there and ask your heart what it doth know. "</i></h5>**
+**<h5><i>" What lies behind us and what lies before us are small matters compared to what lies within us. "</i></h5>**
 
-*<b>___ William Shakespeare ___</b>*
+*<b>___ Oliver Wendell Holmes Jr. ___</b>*
