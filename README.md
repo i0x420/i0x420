@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The mind unlearns with difficulty what it has long learned. "</i></h5>**
+**<h5><i>" If you don't know where you are going, any road will get you there. "</i></h5>**
 
-*<b>___ Seneca the Younger ___</b>*
+*<b>___ Lewis Carroll ___</b>*
