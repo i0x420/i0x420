@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered. "</i></h5>**
+**<h5><i>" Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain. "</i></h5>**
 
-*<b>___ Nelson Mandela ___</b>*
+*<b>___ Kahlil Gibran ___</b>*
