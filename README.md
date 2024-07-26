@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The more you like yourself, the less you are like anyone else, which makes you unique. "</i></h5>**
+**<h5><i>" We are what we repeatedly do. Excellence, then, is not an act, but a habit. "</i></h5>**
 
-*<b>___ Walt Disney ___</b>*
+*<b>___ Aristotle ___</b>*
