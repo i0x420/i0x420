@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A man cannot be said to succeed in this life who does not satisfy one friend. "</i></h5>**
+**<h5><i>" The more you like yourself, the less you are like anyone else, which makes you unique. "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ Walt Disney ___</b>*
