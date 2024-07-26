@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Quality is never an accident; it is always the result of intelligent effort. "</i></h5>**
+**<h5><i>" It is one of the blessings of old friends that you can afford to be stupid with them. "</i></h5>**
 
-*<b>___ John Ruskin ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
