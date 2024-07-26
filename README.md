@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Remember that the most valuable antiques are dear old friends. "</i></h5>**
+**<h5><i>" Good, better, best. Never let it rest. ‘Til your good is better and your better is best. "</i></h5>**
 
-*<b>___ H. Jackson Brown Jr. ___</b>*
+*<b>___ Jerome ___</b>*
