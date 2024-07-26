@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To conquer fear is the beginning of wisdom. "</i></h5>**
+**<h5><i>" Adopt the pace of nature: her secret is patience. "</i></h5>**
 
-*<b>___ Bertrand Russell ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
