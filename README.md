@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Accept challenges, so that you may feel the exhilaration of victory. "</i></h5>**
+**<h5><i>" The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work. "</i></h5>**
 
-*<b>___ George S. Patton ___</b>*
+*<b>___ Dalai Lama ___</b>*
