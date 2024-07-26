@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct. "</i></h5>**
+**<h5><i>" Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do. "</i></h5>**
 
-*<b>___ Elizabeth Kapu'uwailani Lindsey ___</b>*
+*<b>___ Pope John XXIII ___</b>*
