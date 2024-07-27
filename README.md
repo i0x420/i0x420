@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness. "</i></h5>**
+**<h5><i>" Sometimes the most important thing in a whole day is the rest we take between two deep breaths. "</i></h5>**
 
-*<b>___ Rumi ___</b>*
+*<b>___ Etty Hillesum ___</b>*
