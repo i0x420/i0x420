@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All difficult things have their origin in that which is easy, and great things in that which is small. "</i></h5>**
+**<h5><i>" We shall never know all the good that a simple smile can do. "</i></h5>**
 
-*<b>___ Laozi ___</b>*
+*<b>___ Mother Teresa ___</b>*
