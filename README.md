@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation. "</i></h5>**
+**<h5><i>" Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step. "</i></h5>**
 
-*<b>___ Samuel Richardson ___</b>*
+*<b>___ Laozi ___</b>*
