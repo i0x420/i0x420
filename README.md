@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Believe deep down in your heart that you're destined to do great things. "</i></h5>**
+**<h5><i>" Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it. "</i></h5>**
 
-*<b>___ Joe Paterno ___</b>*
+*<b>___ M. Scott Peck ___</b>*
