@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Trouble is only opportunity in work clothes. "</i></h5>**
+**<h5><i>" But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be. "</i></h5>**
 
-*<b>___ Henry J. Kaiser ___</b>*
+*<b>___ Alan Watts ___</b>*
