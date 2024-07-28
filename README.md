@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. "</i></h5>**
+**<h5><i>" We must embrace pain and burn it as fuel for our journey. "</i></h5>**
 
-*<b>___ Pema Chödrön ___</b>*
+*<b>___ Kenji Miyazawa ___</b>*
