@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The truest greatness lies in being kind, the truest wisdom in a happy mind. "</i></h5>**
+**<h5><i>" I am always doing that which I cannot do, in order that I may learn how to do it. "</i></h5>**
 
-*<b>___ Ella Wheeler Wilcox ___</b>*
+*<b>___ Pablo Picasso ___</b>*
