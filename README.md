@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A true friend is one who overlooks your failures and tolerates your success! "</i></h5>**
+**<h5><i>" Adversity causes some men to break, others to break records. "</i></h5>**
 
-*<b>___ Doug Larson ___</b>*
+*<b>___ William Arthur Ward ___</b>*
