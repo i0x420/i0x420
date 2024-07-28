@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Coming together is a beginning; keeping together is progress; working together is success. "</i></h5>**
+**<h5><i>" The exercise of an extraordinary gift is the supremist pleasure in life. "</i></h5>**
 
-*<b>___ Edward Everett Hale ___</b>*
+*<b>___ Mark Twain ___</b>*
