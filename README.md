@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" What wisdom can you find that is greater than kindness? "</i></h5>**
+**<h5><i>" It is the mark of an educated mind to be able to entertain a thought without accepting it. "</i></h5>**
 
-*<b>___ Jean-Jacques Rousseau ___</b>*
+*<b>___ Aristotle ___</b>*
