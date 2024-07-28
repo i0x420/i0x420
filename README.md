@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Those who are free of resentful thoughts surely find peace. "</i></h5>**
+**<h5><i>" It's so simple to be wise. Just think of something stupid to say and then don't say it. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Sam Levenson ___</b>*
