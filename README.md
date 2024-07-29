@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you can't feed a hundred people, then feed just one. "</i></h5>**
+**<h5><i>" Two persons cannot long be friends if they cannot forgive each other's little failings. "</i></h5>**
 
-*<b>___ Mother Teresa ___</b>*
+*<b>___ Jean de La Bruyère ___</b>*
