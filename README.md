@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If the stars should appear but one night every thousand years how man would marvel and adore. "</i></h5>**
+**<h5><i>" Nothing will work unless you do. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Maya Angelou ___</b>*
