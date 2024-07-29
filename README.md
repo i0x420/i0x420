@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Speak only endearing speech, speech that is welcomed. Speech, when it brings no evil to others, is a pleasant thing. "</i></h5>**
+**<h5><i>" You teach best what you most need to learn. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Richard Bach ___</b>*
