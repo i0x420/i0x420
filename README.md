@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Those who cling to perceptions and views wander the world offending people. "</i></h5>**
+**<h5><i>" A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Elbert Hubbard ___</b>*
