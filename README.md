@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Love is never lost. If not reciprocated, it will flow back and soften and purify the heart. "</i></h5>**
+**<h5><i>" Creativity comes from trust. Trust your instincts. And never hope more than you work. "</i></h5>**
 
-*<b>___ Washington Irving ___</b>*
+*<b>___ Rita Mae Brown ___</b>*
