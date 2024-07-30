@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance. "</i></h5>**
+**<h5><i>" Only those who dare to fail greatly can ever achieve greatly. "</i></h5>**
 
-*<b>___ Thomas Carlyle ___</b>*
+*<b>___ Robert F. Kennedy ___</b>*
