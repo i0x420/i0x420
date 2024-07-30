@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all. "</i></h5>**
+**<h5><i>" Never make friends with people who are above or below you in status. Such friendships will never give you any happiness. "</i></h5>**
 
-*<b>___ Dale Carnegie ___</b>*
+*<b>___ Chanakya ___</b>*
