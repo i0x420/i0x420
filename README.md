@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure. "</i></h5>**
+**<h5><i>" Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Henry van Dyke Jr. ___</b>*
