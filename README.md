@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" One should not hurt others if one loves oneself. "</i></h5>**
+**<h5><i>" The sincere friends of this world are as ship lights in the stormiest of nights. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Giotto ___</b>*
