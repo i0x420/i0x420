@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching. "</i></h5>**
+**<h5><i>" Friends are those rare people who ask how we are and then wait to hear the answer. "</i></h5>**
 
-*<b>___ Satchel Paige ___</b>*
+*<b>___ Ed Cunningham ___</b>*
