@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it. "</i></h5>**
+**<h5><i>" Don't smother each other. No one can grow in the shade. "</i></h5>**
 
-*<b>___ Lou Holtz ___</b>*
+*<b>___ Leo Buscaglia ___</b>*
