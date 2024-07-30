@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" O, what a tangled web we weave when first we practice to deceive! "</i></h5>**
+**<h5><i>" Things turn out best for those who make the best of the way things turn out. "</i></h5>**
 
-*<b>___ Walter Scott ___</b>*
+*<b>___ Jack Buck ___</b>*
