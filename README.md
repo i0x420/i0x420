@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Difficulties are things that show a person what they are. "</i></h5>**
+**<h5><i>" Through perseverance many people win success out of what seemed destined to be certain failure. "</i></h5>**
 
-*<b>___ Epictetus ___</b>*
+*<b>___ Benjamin Disraeli ___</b>*
