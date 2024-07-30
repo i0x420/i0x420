@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing. "</i></h5>**
+**<h5><i>" The greater our knowledge increases the more our ignorance unfolds. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ John F. Kennedy ___</b>*
