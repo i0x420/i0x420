@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise. "</i></h5>**
+**<h5><i>" Kindness is the golden chain by which society is bound together. "</i></h5>**
 
-*<b>___ Anne Brontë ___</b>*
+*<b>___ Johann Wolfgang von Goethe ___</b>*
