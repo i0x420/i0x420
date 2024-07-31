@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Peace begins with a smile. "</i></h5>**
+**<h5><i>" If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him. "</i></h5>**
 
-*<b>___ Mother Teresa ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
