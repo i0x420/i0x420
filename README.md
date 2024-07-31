@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It's the little details that are vital. Little things make big things happen. "</i></h5>**
+**<h5><i>" They say that time changes things, but you actually have to change them yourself. "</i></h5>**
 
-*<b>___ John Wooden ___</b>*
+*<b>___ Andy Warhol ___</b>*
