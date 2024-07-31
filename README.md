@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future. "</i></h5>**
+**<h5><i>" The higher we are placed, the more humbly we should walk. "</i></h5>**
 
-*<b>___ Plutarch ___</b>*
+*<b>___ Cicero ___</b>*
