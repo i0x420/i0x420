@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The only person who never makes mistakes is the person who never does anything. "</i></h5>**
+**<h5><i>" There is nothing on this earth more to be prized than true friendship. "</i></h5>**
 
-*<b>___ Denis Waitley ___</b>*
+*<b>___ Thomas Aquinas ___</b>*
