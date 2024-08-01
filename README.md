@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times. "</i></h5>**
+**<h5><i>" However rare true love may be, it is less so than true friendship. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ François de La Rochefoucauld ___</b>*
