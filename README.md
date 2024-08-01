@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" However rare true love may be, it is less so than true friendship. "</i></h5>**
+**<h5><i>" When watching after yourself, you watch after others. When watching after others, you watch after yourself. "</i></h5>**
 
-*<b>___ François de La Rochefoucauld ___</b>*
+*<b>___ The Buddha ___</b>*
