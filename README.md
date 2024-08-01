@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Time changes everything except something within us which is always surprised by change. "</i></h5>**
+**<h5><i>" Lord, make me an instrument of thy peace. Where there is hatred, let me sow love. "</i></h5>**
 
-*<b>___ Thomas Hardy ___</b>*
+*<b>___ Francis of Assisi ___</b>*
