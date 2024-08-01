@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run. "</i></h5>**
+**<h5><i>" If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ John Steinbeck ___</b>*
