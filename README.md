@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The thoughts we choose to think are the tools we use to paint the canvas of our lives. "</i></h5>**
+**<h5><i>" To know oneself is to study oneself in action with another person. "</i></h5>**
 
-*<b>___ Louise Hay ___</b>*
+*<b>___ Bruce Lee ___</b>*
