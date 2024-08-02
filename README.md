@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" He who hath many friends hath none. "</i></h5>**
+**<h5><i>" Argue for your limitations, and sure enough they're yours. "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Richard Bach ___</b>*
