@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Better than a thousand useless words is one useful word, upon hearing which one attains peace. "</i></h5>**
+**<h5><i>" One of the advantages of being disorderly is that one is constantly making exciting discoveries. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ A. A. Milne ___</b>*
