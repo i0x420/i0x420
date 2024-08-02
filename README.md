@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Everything you are against weakens you. Everything you are for empowers you. "</i></h5>**
+**<h5><i>" The secret of success is constancy to purpose. "</i></h5>**
 
-*<b>___ Wayne Dyer ___</b>*
+*<b>___ Benjamin Disraeli ___</b>*
