@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Divide each difficulty into as many parts as is feasible and necessary to resolve it. "</i></h5>**
+**<h5><i>" The essence of true friendship is to make allowance for another's little lapses. "</i></h5>**
 
-*<b>___ René Descartes ___</b>*
+*<b>___ Ovid ___</b>*
