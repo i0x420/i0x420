@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The world has the habit of making room for the man whose actions show that he knows where he is going. "</i></h5>**
+**<h5><i>" It is not enough to have a good mind; the main thing is to use it well. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ René Descartes ___</b>*
