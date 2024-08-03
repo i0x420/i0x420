@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A goal without a plan is just a wish. "</i></h5>**
+**<h5><i>" Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice. "</i></h5>**
 
-*<b>___ Larry Elder ___</b>*
+*<b>___ Wayne Dyer ___</b>*
