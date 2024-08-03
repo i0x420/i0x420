@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The least movement is of importance to all nature. The entire ocean is affected by a pebble. "</i></h5>**
+**<h5><i>" Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life. "</i></h5>**
 
-*<b>___ Blaise Pascal ___</b>*
+*<b>___ Lord Byron ___</b>*
