@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If one does not know to which port one is sailing, no wind is favorable. "</i></h5>**
+**<h5><i>" If a man watches three football games in a row, he should be declared legally dead. "</i></h5>**
 
-*<b>___ Seneca the Younger ___</b>*
+*<b>___ Erma Bombeck ___</b>*
