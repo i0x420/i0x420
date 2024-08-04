@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The best preparation for tomorrow is doing your best today. "</i></h5>**
+**<h5><i>" Many sophisticated, intelligent people lack wisdom and common sense. "</i></h5>**
 
-*<b>___ H. Jackson Brown Jr. ___</b>*
+*<b>___ Joyce Meyer ___</b>*
