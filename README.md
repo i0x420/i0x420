@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I am always doing that which I cannot do, in order that I may learn how to do it. "</i></h5>**
+**<h5><i>" It is not fair to ask of others what you are unwilling to do yourself. "</i></h5>**
 
-*<b>___ Pablo Picasso ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
