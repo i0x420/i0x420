@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Many sophisticated, intelligent people lack wisdom and common sense. "</i></h5>**
+**<h5><i>" Everything that irritates us about others can lead us to an understanding of ourselves. "</i></h5>**
 
-*<b>___ Joyce Meyer ___</b>*
+*<b>___ Carl Jung ___</b>*
