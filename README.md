@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice. "</i></h5>**
+**<h5><i>" Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "</i></h5>**
 
-*<b>___ Wayne Dyer ___</b>*
+*<b>___ George Washington ___</b>*
