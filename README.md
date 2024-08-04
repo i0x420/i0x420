@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship. "</i></h5>**
+**<h5><i>" Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. "</i></h5>**
 
-*<b>___ Henry Ward Beecher ___</b>*
+*<b>___ Richard Bach ___</b>*
