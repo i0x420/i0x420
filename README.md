@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If a man watches three football games in a row, he should be declared legally dead. "</i></h5>**
+**<h5><i>" It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others. "</i></h5>**
 
-*<b>___ Erma Bombeck ___</b>*
+*<b>___ Dalai Lama ___</b>*
