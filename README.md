@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Irony is the gaiety of reflection and the joy of wisdom. "</i></h5>**
+**<h5><i>" The shoe that fits one person pinches another; there is no recipe for living that suits all cases. "</i></h5>**
 
-*<b>___ Anatole France ___</b>*
+*<b>___ Carl Jung ___</b>*
