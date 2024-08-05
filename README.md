@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" By accepting yourself and being fully what you are, your presence can make others happy. "</i></h5>**
+**<h5><i>" We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started. "</i></h5>**
 
-*<b>___ Jane Roberts ___</b>*
+*<b>___ Henry Ward Beecher ___</b>*
