@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Everyone thinks of changing the world, but no one thinks of changing himself. "</i></h5>**
+**<h5><i>" An organization, no matter how well designed, is only as good as the people who live and work in it. "</i></h5>**
 
-*<b>___ Leo Tolstoy ___</b>*
+*<b>___ Dee Hock ___</b>*
