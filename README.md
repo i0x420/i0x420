@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care. "</i></h5>**
+**<h5><i>" Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him. "</i></h5>**
 
-*<b>___ William C. Menninger ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
