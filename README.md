@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living. "</i></h5>**
+**<h5><i>" Happiness is not something ready-made. It comes from your own actions. "</i></h5>**
 
-*<b>___ Anaïs Nin ___</b>*
+*<b>___ Dalai Lama ___</b>*
