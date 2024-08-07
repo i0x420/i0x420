@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Change in all things is sweet. "</i></h5>**
+**<h5><i>" To fly as fast as thought, you must begin by knowing that you have already arrived. "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Richard Bach ___</b>*
