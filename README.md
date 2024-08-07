@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To be what we are, and to become what we are capable of becoming, is the only end of life. "</i></h5>**
+**<h5><i>" The universe is made of stories, not atoms. "</i></h5>**
 
-*<b>___ Robert Louis Stevenson ___</b>*
+*<b>___ Muriel Rukeyser ___</b>*
