@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started. "</i></h5>**
+**<h5><i>" Loss is nothing else but change, and change is Nature's delight. "</i></h5>**
 
-*<b>___ Henry Ward Beecher ___</b>*
+*<b>___ Marcus Aurelius ___</b>*
