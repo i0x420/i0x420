@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Never deny a diagnosis but do deny the negative verdict that may go with it. "</i></h5>**
+**<h5><i>" Don't talk about what you have done or what you are going to do. "</i></h5>**
 
-*<b>___ Norman Cousins ___</b>*
+*<b>___ Thomas Jefferson ___</b>*
