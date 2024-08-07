@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is not enough to have a good mind; the main thing is to use it well. "</i></h5>**
+**<h5><i>" To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform. "</i></h5>**
 
-*<b>___ René Descartes ___</b>*
+*<b>___ Theodore H. White ___</b>*
