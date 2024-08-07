@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There are no secrets to success. It is the result of preparation, hard work, and learning from failure. "</i></h5>**
+**<h5><i>" Courage is not the absence of fear, but simply moving on with dignity despite that fear. "</i></h5>**
 
-*<b>___ Colin Powell ___</b>*
+*<b>___ Pat Riley ___</b>*
