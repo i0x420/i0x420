@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Ask yourself the secret of your success. Listen to your answer and practice it. "</i></h5>**
+**<h5><i>" Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity. "</i></h5>**
 
-*<b>___ Richard Bach ___</b>*
+*<b>___ William C. Menninger ___</b>*
