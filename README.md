@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Fear makes strangers of people who would be friends. "</i></h5>**
+**<h5><i>" Goals are the fuel in the furnace of achievement. "</i></h5>**
 
-*<b>___ Shirley MacLaine ___</b>*
+*<b>___ Brian Tracy ___</b>*
