@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Creativity comes from trust. Trust your instincts. And never hope more than you work. "</i></h5>**
+**<h5><i>" Every problem has a gift for you in its hands. "</i></h5>**
 
-*<b>___ Rita Mae Brown ___</b>*
+*<b>___ Richard Bach ___</b>*
