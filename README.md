@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time. "</i></h5>**
+**<h5><i>" There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool. "</i></h5>**
 
-*<b>___ Victoria Osteen ___</b>*
+*<b>___ Francis Bacon ___</b>*
