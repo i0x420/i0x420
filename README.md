@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Step with care and great tact and remember that Life's a Great Balancing Act. "</i></h5>**
+**<h5><i>" Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born. "</i></h5>**
 
-*<b>___ Dr. Seuss ___</b>*
+*<b>___ Anaïs Nin ___</b>*
