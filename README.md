@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself. "</i></h5>**
+**<h5><i>" Know, first, who you are, and then adorn yourself accordingly. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Epictetus ___</b>*
