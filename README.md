@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I'd rather regret the things that I have done than the things that I have not done. "</i></h5>**
+**<h5><i>" Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others? "</i></h5>**
 
-*<b>___ Lucille Ball ___</b>*
+*<b>___ Dalai Lama ___</b>*
