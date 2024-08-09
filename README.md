@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Goals are the fuel in the furnace of achievement. "</i></h5>**
+**<h5><i>" I'm a great believer in luck and I find the harder I work, the more I have of it. "</i></h5>**
 
-*<b>___ Brian Tracy ___</b>*
+*<b>___ Thomas Jefferson ___</b>*
