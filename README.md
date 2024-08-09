@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Believe deep down in your heart that you're destined to do great things. "</i></h5>**
+**<h5><i>" Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort. "</i></h5>**
 
-*<b>___ Joe Paterno ___</b>*
+*<b>___ Charles Dickens ___</b>*
