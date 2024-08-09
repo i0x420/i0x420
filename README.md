@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life is a succession of moments. To live each one is to succeed. "</i></h5>**
+**<h5><i>" Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself. "</i></h5>**
 
-*<b>___ Corita Kent ___</b>*
+*<b>___ Henry Reed ___</b>*
