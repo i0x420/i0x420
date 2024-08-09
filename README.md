@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Walking with a friend in the dark is better than walking alone in the light. "</i></h5>**
+**<h5><i>" The best thing in every noble dream is the dreamer... "</i></h5>**
 
-*<b>___ Helen Keller ___</b>*
+*<b>___ Moncure D. Conway ___</b>*
