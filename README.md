@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Experience keeps a dear school, but fools will learn in no other. "</i></h5>**
+**<h5><i>" Don't judge each day by the harvest you reap but by the seeds that you plant. "</i></h5>**
 
-*<b>___ Benjamin Franklin ___</b>*
+*<b>___ Robert Louis Stevenson ___</b>*
