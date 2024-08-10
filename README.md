@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Pitching is the art of instilling fear. "</i></h5>**
+**<h5><i>" Not engaging in ignorance is wisdom. "</i></h5>**
 
-*<b>___ Sandy Koufax ___</b>*
+*<b>___ Bodhidharma ___</b>*
