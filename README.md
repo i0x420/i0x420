@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Nobody will believe in you unless you believe in yourself. "</i></h5>**
+**<h5><i>" Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are. "</i></h5>**
 
-*<b>___ Liberace ___</b>*
+*<b>___ Bernice Reagon ___</b>*
