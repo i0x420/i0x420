@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself. "</i></h5>**
+**<h5><i>" To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly. "</i></h5>**
 
-*<b>___ Henry Reed ___</b>*
+*<b>___ Henri Bergson ___</b>*
