@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else. "</i></h5>**
+**<h5><i>" If you find yourself in a hole, the first thing to do is stop digging. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Will Rogers ___</b>*
