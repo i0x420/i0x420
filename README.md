@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" One of the most beautiful qualities of true friendship is to understand and to be understood. "</i></h5>**
+**<h5><i>" I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. "</i></h5>**
 
-*<b>___ Seneca the Younger ___</b>*
+*<b>___ Kurt Vonnegut ___</b>*
