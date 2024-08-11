@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All achievements, all earned riches, have their beginning in an idea. "</i></h5>**
+**<h5><i>" All that we see or seem is but a dream within a dream. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Edgar Allan Poe ___</b>*
