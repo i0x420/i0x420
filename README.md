@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The art challenges the technology, and the technology inspires the art. "</i></h5>**
+**<h5><i>" To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else. "</i></h5>**
 
-*<b>___ John Lasseter ___</b>*
+*<b>___ Dalai Lama ___</b>*
