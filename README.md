@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Where there is charity and wisdom, there is neither fear nor ignorance. "</i></h5>**
+**<h5><i>" In order to succeed, we must first believe that we can. "</i></h5>**
 
-*<b>___ Francis of Assisi ___</b>*
+*<b>___ Nikos Kazantzakis ___</b>*
