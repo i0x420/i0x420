@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The only real mistake is the one from which we learn nothing. "</i></h5>**
+**<h5><i>" You cannot have what you do not want. "</i></h5>**
 
-*<b>___ John Powell ___</b>*
+*<b>___ John Acosta ___</b>*
