@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health. "</i></h5>**
+**<h5><i>" I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Oprah Winfrey ___</b>*
