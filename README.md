@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Gratitude is the fairest blossom which springs from the soul. "</i></h5>**
+**<h5><i>" Experience is not what happens to a man. It is what a man does with what happens to him. "</i></h5>**
 
-*<b>___ Henry K. Beecher ___</b>*
+*<b>___ Aldous Huxley ___</b>*
