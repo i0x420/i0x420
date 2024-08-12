@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" My best friend is the one who brings out the best in me. "</i></h5>**
+**<h5><i>" Arriving at one point is the starting point to another. "</i></h5>**
 
-*<b>___ Henry Ford ___</b>*
+*<b>___ John Dewey ___</b>*
