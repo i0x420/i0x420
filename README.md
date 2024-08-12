@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Discovery consists of seeing what everybody has seen and thinking what nobody else has thought. "</i></h5>**
+**<h5><i>" Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it. "</i></h5>**
 
-*<b>___ Jonathan Swift ___</b>*
+*<b>___ Bruce Lee ___</b>*
