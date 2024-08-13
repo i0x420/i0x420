@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friends are those rare people who ask how we are and then wait to hear the answer. "</i></h5>**
+**<h5><i>" Tragedy is a tool for the living to gain wisdom, not a guide by which to live. "</i></h5>**
 
-*<b>___ Ed Cunningham ___</b>*
+*<b>___ Robert F. Kennedy ___</b>*
