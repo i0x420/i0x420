@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life is really simple, but we insist on making it complicated. "</i></h5>**
+**<h5><i>" Loss is nothing else but change, and change is Nature's delight. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Marcus Aurelius ___</b>*
