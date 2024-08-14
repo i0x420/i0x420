@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Those who will play with cats must expect to be scratched. "</i></h5>**
+**<h5><i>" To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future. "</i></h5>**
 
-*<b>___ Miguel de Cervantes ___</b>*
+*<b>___ Plutarch ___</b>*
