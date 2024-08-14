@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You cannot escape the responsibility of tomorrow by evading it today. "</i></h5>**
+**<h5><i>" All the great performers I have worked with are fueled by a personal dream. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ John Eliot ___</b>*
