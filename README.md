@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We lost because we told ourselves we lost. "</i></h5>**
+**<h5><i>" The road of excess leads to the palace of wisdom. "</i></h5>**
 
-*<b>___ Leo Tolstoy ___</b>*
+*<b>___ William Blake ___</b>*
