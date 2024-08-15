@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Remember that the most valuable antiques are dear old friends. "</i></h5>**
+**<h5><i>" Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him. "</i></h5>**
 
-*<b>___ H. Jackson Brown Jr. ___</b>*
+*<b>___ Johann Wolfgang von Goethe ___</b>*
