@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All our knowledge has its origins in our perceptions. "</i></h5>**
+**<h5><i>" Start where you are. Use what you have. Do what you can. "</i></h5>**
 
-*<b>___ Leonardo da Vinci ___</b>*
+*<b>___ Arthur Ashe ___</b>*
