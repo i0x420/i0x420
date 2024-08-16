@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Those who cannot learn from history are doomed to repeat it. "</i></h5>**
+**<h5><i>" It requires wisdom to understand wisdom: the music is nothing if the audience is deaf. "</i></h5>**
 
-*<b>___ George Santayana ___</b>*
+*<b>___ Walter Lippmann ___</b>*
