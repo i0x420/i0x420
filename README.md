@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so. "</i></h5>**
+**<h5><i>" Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others. "</i></h5>**
 
-*<b>___ Douglas Adams ___</b>*
+*<b>___ Harriet Lerner ___</b>*
