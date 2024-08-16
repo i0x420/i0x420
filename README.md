@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The things that one most wants to do are the things that are probably most worth doing. "</i></h5>**
+**<h5><i>" Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. "</i></h5>**
 
-*<b>___ Winifred Holtby ___</b>*
+*<b>___ Albert Schweitzer ___</b>*
