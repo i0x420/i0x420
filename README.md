@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The wisest men follow their own direction. "</i></h5>**
+**<h5><i>" Can you imagine what I would do if I could do all I can? "</i></h5>**
 
-*<b>___ Euripides ___</b>*
+*<b>___ Sun Tzu ___</b>*
