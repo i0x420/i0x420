@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Meditate … do not delay, lest you later regret it. "</i></h5>**
+**<h5><i>" Beauty is not in the face; beauty is a light in the heart. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Kahlil Gibran ___</b>*
