@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Wisdom alone is the science of other sciences. "</i></h5>**
+**<h5><i>" You don't look out there for God, something in the sky, you look in you. "</i></h5>**
 
-*<b>___ Plato ___</b>*
+*<b>___ Alan Watts ___</b>*
