@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There is only one corner of the universe you can be certain of improving, and that's your own self. "</i></h5>**
+**<h5><i>" If you can't feed a hundred people, then feed just one. "</i></h5>**
 
-*<b>___ Aldous Huxley ___</b>*
+*<b>___ Mother Teresa ___</b>*
