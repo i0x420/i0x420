@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Avoid having your ego so close to your position that when your position falls, your ego goes with it. "</i></h5>**
+**<h5><i>" All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason. "</i></h5>**
 
-*<b>___ Colin Powell ___</b>*
+*<b>___ Immanuel Kant ___</b>*
