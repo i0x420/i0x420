@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. "</i></h5>**
+**<h5><i>" If we open a quarrel between past and present, we shall find that we have lost the future. "</i></h5>**
 
-*<b>___ Richard Bach ___</b>*
+*<b>___ Winston Churchill ___</b>*
