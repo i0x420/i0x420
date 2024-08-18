@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen. "</i></h5>**
+**<h5><i>" Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Mother Angelica ___</b>*
