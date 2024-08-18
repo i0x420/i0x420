@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose. "</i></h5>**
+**<h5><i>" The winds and waves are always on the side of the ablest navigators. "</i></h5>**
 
-*<b>___ Eknath Easwaran ___</b>*
+*<b>___ Edward Gibbon ___</b>*
