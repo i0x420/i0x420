@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Technology is teaching us to be human again. "</i></h5>**
+**<h5><i>" Technology… the knack of so arranging the world that we don't have to experience it. "</i></h5>**
 
-*<b>___ Simon Mainwaring ___</b>*
+*<b>___ Max Frisch ___</b>*
