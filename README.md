@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Eternal nothingness is fine if you happen to be dressed for it. "</i></h5>**
+**<h5><i>" No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth. "</i></h5>**
 
-*<b>___ Woody Allen ___</b>*
+*<b>___ Robert Southey ___</b>*
