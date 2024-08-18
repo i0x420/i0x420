@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost. "</i></h5>**
+**<h5><i>" A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Fawn M. Brodie ___</b>*
