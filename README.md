@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others? "</i></h5>**
+**<h5><i>" Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Doug Larson ___</b>*
