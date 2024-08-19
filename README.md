@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate. "</i></h5>**
+**<h5><i>" Democracy's premise rests on the notion that the collective wisdom of the majority will prove right more often than it's wrong; that given sufficient opportunity in the pursuit of happiness, your population will develop its talents, its intellect, its better judgment; that over time its capacity for discernment and self-correction will be enlarged. "</i></h5>**
 
-*<b>___ Zhuang Zhou ___</b>*
+*<b>___ Ben Fountain ___</b>*
