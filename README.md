@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A good plan violently executed now is better than a perfect plan executed next week. "</i></h5>**
+**<h5><i>" Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit. "</i></h5>**
 
-*<b>___ George S. Patton ___</b>*
+*<b>___ Elbert Hubbard ___</b>*
