@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe. "</i></h5>**
+**<h5><i>" We are all inclined to judge ourselves by our ideals; others, by their acts. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Harold Nicolson ___</b>*
