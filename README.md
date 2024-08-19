@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i></h5>**
+**<h5><i>" Start with what is right rather than what is acceptable. "</i></h5>**
 
-*<b>___ Nikola Tesla ___</b>*
+*<b>___ Franz Kafka ___</b>*
