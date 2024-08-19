@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god. "</i></h5>**
+**<h5><i>" A good plan violently executed now is better than a perfect plan executed next week. "</i></h5>**
 
-*<b>___ Alan Watts ___</b>*
+*<b>___ George S. Patton ___</b>*
