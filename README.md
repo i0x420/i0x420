@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Imagination is not a talent of some men but is the health of every man. "</i></h5>**
+**<h5><i>" The person who lives life fully, glowing with life's energy, is the person who lives a successful life. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Daisaku Ikeda ___</b>*
