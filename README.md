@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The fox has many tricks. The hedgehog has but one. But that is the best of all. "</i></h5>**
+**<h5><i>" Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind. "</i></h5>**
 
-*<b>___ Erasmus ___</b>*
+*<b>___ The Buddha ___</b>*
