@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were. "</i></h5>**
+**<h5><i>" It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something. "</i></h5>**
 
-*<b>___ David Rockefeller ___</b>*
+*<b>___ Franklin D. Roosevelt ___</b>*
