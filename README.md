@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" They say that time changes things, but you actually have to change them yourself. "</i></h5>**
+**<h5><i>" Strength does not come from physical capacity. It comes from an indomitable will. "</i></h5>**
 
-*<b>___ Andy Warhol ___</b>*
+*<b>___ Mahatma Gandhi ___</b>*
