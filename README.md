@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Those who dream by day are cognizant of many things which escape those who dream only by night. "</i></h5>**
+**<h5><i>" Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen. "</i></h5>**
 
-*<b>___ Edgar Allan Poe ___</b>*
+*<b>___ Winston Churchill ___</b>*
