@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend. "</i></h5>**
+**<h5><i>" The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back. "</i></h5>**
 
-*<b>___ Thomas Jefferson ___</b>*
+*<b>___ Seneca the Younger ___</b>*
