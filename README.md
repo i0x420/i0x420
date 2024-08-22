@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life. "</i></h5>**
+**<h5><i>" Marriage: A friendship recognized by the police. "</i></h5>**
 
-*<b>___ Lord Byron ___</b>*
+*<b>___ Robert Louis Stevenson ___</b>*
