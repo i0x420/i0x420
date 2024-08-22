@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. "</i></h5>**
+**<h5><i>" The minute you settle for less than you deserve, you get even less than you settled for. "</i></h5>**
 
-*<b>___ Steve Jobs ___</b>*
+*<b>___ Maureen Dowd ___</b>*
