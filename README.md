@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Correction does much, but encouragement does more. "</i></h5>**
+**<h5><i>" Never give up, for that is just the place and time that the tide will turn. "</i></h5>**
 
-*<b>___ Johann Wolfgang von Goethe ___</b>*
+*<b>___ Harriet Beecher Stowe ___</b>*
