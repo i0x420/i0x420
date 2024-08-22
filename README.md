@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The universe is transformation; our life is what our thoughts make it. "</i></h5>**
+**<h5><i>" Correction does much, but encouragement does more. "</i></h5>**
 
-*<b>___ Marcus Aurelius ___</b>*
+*<b>___ Johann Wolfgang von Goethe ___</b>*
