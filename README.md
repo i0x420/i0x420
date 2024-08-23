@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children. "</i></h5>**
+**<h5><i>" Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world. "</i></h5>**
 
-*<b>___ Kahlil Gibran ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
