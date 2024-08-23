@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit. "</i></h5>**
+**<h5><i>" Love does not consist of gazing at each other, but in looking together in the same direction. "</i></h5>**
 
-*<b>___ Helen Keller ___</b>*
+*<b>___ Antoine de Saint-Exupéry ___</b>*
