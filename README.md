@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We are all inclined to judge ourselves by our ideals; others, by their acts. "</i></h5>**
+**<h5><i>" Do good by stealth, and blush to find it fame. "</i></h5>**
 
-*<b>___ Harold Nicolson ___</b>*
+*<b>___ Alexander Pope ___</b>*
