@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We know what we are but know not what we may be. "</i></h5>**
+**<h5><i>" How wonderful that we have met with a paradox. Now we have some hope of making progress. "</i></h5>**
 
-*<b>___ William Shakespeare ___</b>*
+*<b>___ Niels Bohr ___</b>*
