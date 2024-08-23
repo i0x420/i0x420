@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I want you to be everything that's you, deep at the center of your being. "</i></h5>**
+**<h5><i>" Life is movement-we breathe, we eat, we walk, we move! "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ John Pierrakos ___</b>*
