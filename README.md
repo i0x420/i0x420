@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Follow your instincts. That is where true wisdom manifests itself. "</i></h5>**
+**<h5><i>" Strength does not come from physical capacity. It comes from an indomitable will. "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ Mahatma Gandhi ___</b>*
