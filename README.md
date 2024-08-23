@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is not wisdom but Authority that makes a law. "</i></h5>**
+**<h5><i>" The Superior Man is aware of Righteousness, the inferior man is aware of advantage. "</i></h5>**
 
-*<b>___ Thomas Hobbes ___</b>*
+*<b>___ Confucius ___</b>*
