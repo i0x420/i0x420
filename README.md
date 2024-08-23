@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Love does not consist of gazing at each other, but in looking together in the same direction. "</i></h5>**
+**<h5><i>" You do not become good by trying to be good, but by finding the goodness that is already within you. "</i></h5>**
 
-*<b>___ Antoine de Saint-Exupéry ___</b>*
+*<b>___ Eckhart Tolle ___</b>*
