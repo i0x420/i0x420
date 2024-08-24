@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Let your hook always be cast; in the pool where you least expect it, there will be a fish. "</i></h5>**
+**<h5><i>" The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts. "</i></h5>**
 
-*<b>___ Ovid ___</b>*
+*<b>___ Charles Darwin ___</b>*
