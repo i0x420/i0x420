@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The more light you allow within you, the brighter the world you live in will be. "</i></h5>**
+**<h5><i>" Blessed are the hearts that can bend; they shall never be broken. "</i></h5>**
 
-*<b>___ Shakti Gawain ___</b>*
+*<b>___ Albert Camus ___</b>*
