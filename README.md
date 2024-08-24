@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you don't know where you are going, you will probably end up somewhere else. "</i></h5>**
+**<h5><i>" Obstacles are those frightful things you see when you take your eyes off your goal. "</i></h5>**
 
-*<b>___ Laurence J. Peter ___</b>*
+*<b>___ Henry Ford ___</b>*
