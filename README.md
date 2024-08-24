@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless. "</i></h5>**
+**<h5><i>" Love isn't something you find. Love is something that finds you. "</i></h5>**
 
-*<b>___ Caroline Myss ___</b>*
+*<b>___ Loretta Young ___</b>*
