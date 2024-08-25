@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" We must not allow ourselves to become like the system we oppose. "</i></h5>**
+**<h5><i>" All this modern technology just makes people try to do everything at once. "</i></h5>**
 
-*<b>___ Desmond Tutu ___</b>*
+*<b>___ Bill Watterson ___</b>*
