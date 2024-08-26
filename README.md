@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Beware of missing chances; otherwise it may be altogether too late someday. "</i></h5>**
+**<h5><i>" If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha "</i></h5>**
 
-*<b>___ Franz Liszt ___</b>*
+*<b>___ The Buddha ___</b>*
