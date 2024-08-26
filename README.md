@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" God made me fast. And when I run, I feel His pleasure. "</i></h5>**
+**<h5><i>" Miracles come in moments. Be ready and willing. "</i></h5>**
 
-*<b>___ Eric Liddell ___</b>*
+*<b>___ Wayne Dyer ___</b>*
