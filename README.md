@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing. "</i></h5>**
+**<h5><i>" You have to believe in yourself. "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Sun Tzu ___</b>*
