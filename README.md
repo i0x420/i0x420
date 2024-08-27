@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Most folks are as happy as they make up their minds to be. "</i></h5>**
+**<h5><i>" Not all those who wander are lost. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ J. R. R. Tolkien ___</b>*
