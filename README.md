@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will. "</i></h5>**
+**<h5><i>" By accepting yourself and being fully what you are, your presence can make others happy. "</i></h5>**
 
-*<b>___ Epictetus ___</b>*
+*<b>___ Jane Roberts ___</b>*
