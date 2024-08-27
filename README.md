@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever. "</i></h5>**
+**<h5><i>" I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer. "</i></h5>**
 
-*<b>___ Woody Allen ___</b>*
+*<b>___ Colette ___</b>*
