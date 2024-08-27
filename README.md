@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. "</i></h5>**
+**<h5><i>" If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever. "</i></h5>**
 
-*<b>___ Isocrates ___</b>*
+*<b>___ Woody Allen ___</b>*
