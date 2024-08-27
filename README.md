@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To be tested is good. The challenged life may be the best therapist. "</i></h5>**
+**<h5><i>" You are always free to change your mind and choose a different future, or a different past. "</i></h5>**
 
-*<b>___ Gail Sheehy ___</b>*
+*<b>___ Richard Bach ___</b>*
