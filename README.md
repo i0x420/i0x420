@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Rare as is true love, true friendship is rarer. "</i></h5>**
+**<h5><i>" Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth. "</i></h5>**
 
-*<b>___ Jean de La Fontaine ___</b>*
+*<b>___ Marcus Aurelius ___</b>*
