@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is impossible to love and to be wise. "</i></h5>**
+**<h5><i>" Mistakes are always forgivable, if one has the courage to admit them. "</i></h5>**
 
-*<b>___ Francis Bacon ___</b>*
+*<b>___ Bruce Lee ___</b>*
