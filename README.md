@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Never mistake motion for action. "</i></h5>**
+**<h5><i>" A true friend is one who overlooks your failures and tolerates your success! "</i></h5>**
 
-*<b>___ Ernest Hemingway ___</b>*
+*<b>___ Doug Larson ___</b>*
