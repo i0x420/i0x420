@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The simplest things are often the truest. "</i></h5>**
+**<h5><i>" What lies behind us and what lies before us are tiny matters compared to what lies within us. "</i></h5>**
 
-*<b>___ Richard Bach ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
