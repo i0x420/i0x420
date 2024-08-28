@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" All phenomena are preceded by the mind, created by the mind, and have the mind as their master. "</i></h5>**
+**<h5><i>" Sometimes the most important thing in a whole day is the rest we take between two deep breaths. "</i></h5>**
 
-*<b>___ The Buddha ___</b>*
+*<b>___ Etty Hillesum ___</b>*
