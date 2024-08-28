@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life is a succession of moments. To live each one is to succeed. "</i></h5>**
+**<h5><i>" Do all things with love. "</i></h5>**
 
-*<b>___ Corita Kent ___</b>*
+*<b>___ Og Mandino ___</b>*
