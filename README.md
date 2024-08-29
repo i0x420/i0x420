@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Humanity is acquiring all the right technology for all the wrong reasons. "</i></h5>**
+**<h5><i>" All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill. "</i></h5>**
 
-*<b>___ Buckminster Fuller ___</b>*
+*<b>___ The Buddha ___</b>*
