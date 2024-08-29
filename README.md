@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" What we achieve inwardly will change outer reality. "</i></h5>**
+**<h5><i>" There are no limitations to the mind except those we acknowledge. "</i></h5>**
 
-*<b>___ Plutarch ___</b>*
+*<b>___ Napoleon Hill ___</b>*
