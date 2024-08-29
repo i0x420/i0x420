@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you smile when no one else is around, you really mean it. "</i></h5>**
+**<h5><i>" Think in the morning. Act in the noon. Eat in the evening. Sleep in the night. "</i></h5>**
 
-*<b>___ Andy Rooney ___</b>*
+*<b>___ William Blake ___</b>*
