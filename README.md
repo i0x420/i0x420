@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Either I will find a way, or I will make one. "</i></h5>**
+**<h5><i>" Computers are useless. They can only give you answers. "</i></h5>**
 
-*<b>___ Philip Sidney ___</b>*
+*<b>___ Pablo Picasso ___</b>*
