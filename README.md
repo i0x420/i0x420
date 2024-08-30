@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Fear makes strangers of people who would be friends. "</i></h5>**
+**<h5><i>" May our hearts garden of awakening bloom with hundreds of flowers. "</i></h5>**
 
-*<b>___ Shirley MacLaine ___</b>*
+*<b>___ Thích Nhất Hạnh ___</b>*
