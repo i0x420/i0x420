@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Finding good players is easy. Getting them to play as a team is another story. "</i></h5>**
+**<h5><i>" When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless. "</i></h5>**
 
-*<b>___ Casey Stengel ___</b>*
+*<b>___ Pema Chödrön ___</b>*
