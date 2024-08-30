@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Never do things others can do and will do, if there are things others cannot do or will not do. "</i></h5>**
+**<h5><i>" You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless. "</i></h5>**
 
-*<b>___ Amelia Earhart ___</b>*
+*<b>___ Caroline Myss ___</b>*
