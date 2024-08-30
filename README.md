@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Be your own hero, it's cheaper than a movie ticket. "</i></h5>**
+**<h5><i>" Living at risk is jumping off the cliff and building your wings on the way down. "</i></h5>**
 
-*<b>___ Doug Horton ___</b>*
+*<b>___ Ray Bradbury ___</b>*
