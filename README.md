@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Computers are useless. They can only give you answers. "</i></h5>**
+**<h5><i>" I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars. "</i></h5>**
 
-*<b>___ Pablo Picasso ___</b>*
+*<b>___ Og Mandino ___</b>*
