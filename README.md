@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I know not age, nor weariness nor defeat. "</i></h5>**
+**<h5><i>" If you find yourself in a hole, the first thing to do is stop digging. "</i></h5>**
 
-*<b>___ Rose Kennedy ___</b>*
+*<b>___ Will Rogers ___</b>*
