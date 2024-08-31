@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Genuine sincerity opens people's hearts, while manipulation causes them to close. "</i></h5>**
+**<h5><i>" Love and friendship exclude each other. "</i></h5>**
 
-*<b>___ Daisaku Ikeda ___</b>*
+*<b>___ Jean de La Bruyère ___</b>*
