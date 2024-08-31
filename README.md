@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Take rest; a field that has rested gives a bountiful crop. "</i></h5>**
+**<h5><i>" Do good by stealth, and blush to find it fame. "</i></h5>**
 
-*<b>___ Ovid ___</b>*
+*<b>___ Alexander Pope ___</b>*
