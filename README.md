@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" A good decision is based on knowledge and not on numbers. "</i></h5>**
+**<h5><i>" Train up a fig tree in the way it should go, and when you are old sit under the shade of it. "</i></h5>**
 
-*<b>___ Plato ___</b>*
+*<b>___ Charles Dickens ___</b>*
