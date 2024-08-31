@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I have always thought the actions of men the best interpreters of their thoughts. "</i></h5>**
+**<h5><i>" Maxim for life: You get treated in life the way you teach people to treat you. "</i></h5>**
 
-*<b>___ John Locke ___</b>*
+*<b>___ Wayne Dyer ___</b>*
