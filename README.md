@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It's not what you look at that matters, it's what you see. "</i></h5>**
+**<h5><i>" A noble one produces an abundance of merit by having a compassionate mind towards all living beings. "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ The Buddha ___</b>*
