@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life is movement-we breathe, we eat, we walk, we move! "</i></h5>**
+**<h5><i>" All great men are gifted with intuition. They know without reasoning or analysis, what they need to know. "</i></h5>**
 
-*<b>___ John Pierrakos ___</b>*
+*<b>___ Alexis Carrel ___</b>*
