@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Knowing your own darkness is the best method for dealing with the darkness of other people. "</i></h5>**
+**<h5><i>" In order to win, you must expect to win. "</i></h5>**
 
-*<b>___ Carl Jung ___</b>*
+*<b>___ Richard Bach ___</b>*
