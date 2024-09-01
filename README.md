@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away. "</i></h5>**
+**<h5><i>" It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life. "</i></h5>**
 
-*<b>___ John Steinbeck ___</b>*
+*<b>___ Sigmund Freud ___</b>*
