@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh. "</i></h5>**
+**<h5><i>" Opportunity is missed by most because it is dressed in overalls and looks like work. "</i></h5>**
 
-*<b>___ Francis of Assisi ___</b>*
+*<b>___ Thomas Edison ___</b>*
