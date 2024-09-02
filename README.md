@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship increases in visiting friends, but in visiting them seldom. "</i></h5>**
+**<h5><i>" Persuasion is often more effectual than force. "</i></h5>**
 
-*<b>___ Francis Bacon ___</b>*
+*<b>___ Aesop ___</b>*
