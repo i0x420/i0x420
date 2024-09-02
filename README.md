@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship. "</i></h5>**
+**<h5><i>" Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer. "</i></h5>**
 
-*<b>___ Harbhajan Singh ___</b>*
+*<b>___ Ted Williams ___</b>*
