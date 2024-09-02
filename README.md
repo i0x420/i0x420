@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The superior man understands what is right; the inferior man understands what will sell. "</i></h5>**
+**<h5><i>" Those who dream by day are cognizant of many things which escape those who dream only by night. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Edgar Allan Poe ___</b>*
