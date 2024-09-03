@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us! "</i></h5>**
+**<h5><i>" I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side. "</i></h5>**
 
-*<b>___ Richard Bach ___</b>*
+*<b>___ Yolanda Hadid ___</b>*
