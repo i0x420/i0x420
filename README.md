@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Knowledge rests not upon truth alone, but upon error also. "</i></h5>**
+**<h5><i>" Fans don't boo nobodies. "</i></h5>**
 
-*<b>___ Carl Jung ___</b>*
+*<b>___ Reggie Jackson (basketball, born 1990) ___</b>*
