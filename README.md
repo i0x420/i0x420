@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" What lies behind us and what lies before us are small matters compared to what lies within us. "</i></h5>**
+**<h5><i>" There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness. "</i></h5>**
 
-*<b>___ Oliver Wendell Holmes Jr. ___</b>*
+*<b>___ Dalai Lama ___</b>*
