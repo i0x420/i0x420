@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Positive thinking will let you do everything better than negative thinking will. "</i></h5>**
+**<h5><i>" Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible. "</i></h5>**
 
-*<b>___ Zig Ziglar ___</b>*
+*<b>___ Hannah Arendt ___</b>*
