@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" By believing passionately in something that does not yet exist, we create it. "</i></h5>**
+**<h5><i>" Argue for your limitations, and sure enough they're yours. "</i></h5>**
 
-*<b>___ Nikos Kazantzakis ___</b>*
+*<b>___ Richard Bach ___</b>*
