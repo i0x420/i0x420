@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots. "</i></h5>**
+**<h5><i>" Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise? "</i></h5>**
 
-*<b>___ George Santayana ___</b>*
+*<b>___ Confucius ___</b>*
