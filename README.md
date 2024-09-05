@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Age does not protect you from love. But love, to some extent, protects you from age. "</i></h5>**
+**<h5><i>" Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others "</i></h5>**
 
-*<b>___ Anaïs Nin ___</b>*
+*<b>___ The Buddha ___</b>*
