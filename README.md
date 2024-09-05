@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words. "</i></h5>**
+**<h5><i>" Setting goals is the first step in turning the invisible into the visible. "</i></h5>**
 
-*<b>___ Cicero ___</b>*
+*<b>___ Tony Robbins ___</b>*
