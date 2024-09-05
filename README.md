@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Setting goals is the first step in turning the invisible into the visible. "</i></h5>**
+**<h5><i>" Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step. "</i></h5>**
 
-*<b>___ Tony Robbins ___</b>*
+*<b>___ Laozi ___</b>*
