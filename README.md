@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back? "</i></h5>**
+**<h5><i>" How many cares one loses when one decides not to be something but to be someone. "</i></h5>**
 
-*<b>___ W. Clement Stone ___</b>*
+*<b>___ Coco Chanel ___</b>*
