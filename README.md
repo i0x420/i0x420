@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you can't feed a hundred people, then feed just one. "</i></h5>**
+**<h5><i>" If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you. "</i></h5>**
 
-*<b>___ Mother Teresa ___</b>*
+*<b>___ A. A. Milne ___</b>*
