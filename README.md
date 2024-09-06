@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you. "</i></h5>**
+**<h5><i>" Life is 10% what happens to you and 90% how you react to it. "</i></h5>**
 
-*<b>___ A. A. Milne ___</b>*
+*<b>___ Chuck Swindoll ___</b>*
