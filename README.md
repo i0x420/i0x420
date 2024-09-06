@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more "</i></h5>**
+**<h5><i>" If we did the things we are capable of, we would astound ourselves. "</i></h5>**
 
-*<b>___ Tony Robbins ___</b>*
+*<b>___ Thomas Edison ___</b>*
