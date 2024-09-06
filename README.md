@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Don't turn away from possible futures before you're certain you don't have anything to learn from them. "</i></h5>**
+**<h5><i>" If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace. "</i></h5>**
 
-*<b>___ Richard Bach ___</b>*
+*<b>___ Dalai Lama ___</b>*
