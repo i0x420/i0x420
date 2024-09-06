@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Everything you can imagine is real. "</i></h5>**
+**<h5><i>" Two persons cannot long be friends if they cannot forgive each other's little failings. "</i></h5>**
 
-*<b>___ Pablo Picasso ___</b>*
+*<b>___ Jean de La Bruyère ___</b>*
