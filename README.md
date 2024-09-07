@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To keep your secret is wisdom; but to expect others to keep it is folly. "</i></h5>**
+**<h5><i>" All our dreams can come true, if we have the courage to pursue them. "</i></h5>**
 
-*<b>___ Samuel Johnson ___</b>*
+*<b>___ Walt Disney ___</b>*
