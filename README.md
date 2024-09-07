@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The most complicated achievements of thought are possible without the assistance of consciousness. "</i></h5>**
+**<h5><i>" There's power in looking silly and not caring that you do. "</i></h5>**
 
-*<b>___ Sigmund Freud ___</b>*
+*<b>___ Amy Poehler ___</b>*
