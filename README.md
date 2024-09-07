@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" He that is giddy thinks the world turns round. "</i></h5>**
+**<h5><i>" Wisdom is the power to put our time and our knowledge to the proper use. "</i></h5>**
 
-*<b>___ William Shakespeare ___</b>*
+*<b>___ Thomas J. Watson ___</b>*
