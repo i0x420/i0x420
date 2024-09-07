@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I can't believe that God put us on this earth to be ordinary. "</i></h5>**
+**<h5><i>" If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself. "</i></h5>**
 
-*<b>___ Lou Holtz ___</b>*
+*<b>___ Rollo May ___</b>*
