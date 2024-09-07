@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Imagination rules the world. "</i></h5>**
+**<h5><i>" Never explain - your friends do not need it and your enemies will not believe you anyway. "</i></h5>**
 
-*<b>___ Napoleon ___</b>*
+*<b>___ Elbert Hubbard ___</b>*
