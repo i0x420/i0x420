@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" History will be kind to me for I intend to write it. "</i></h5>**
+**<h5><i>" In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Leonardo da Vinci ___</b>*
