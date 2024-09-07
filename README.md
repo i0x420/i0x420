@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is not enough to have a good mind; the main thing is to use it well. "</i></h5>**
+**<h5><i>" I can't believe that God put us on this earth to be ordinary. "</i></h5>**
 
-*<b>___ René Descartes ___</b>*
+*<b>___ Lou Holtz ___</b>*
