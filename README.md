@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The best preparation for tomorrow is doing your best today. "</i></h5>**
+**<h5><i>" We never understand how little we need in this world until we know the loss of it. "</i></h5>**
 
-*<b>___ H. Jackson Brown Jr. ___</b>*
+*<b>___ J. M. Barrie ___</b>*
