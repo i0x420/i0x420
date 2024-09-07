@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Many of life's failures are people who did not realize how close they were to success when they gave up. "</i></h5>**
+**<h5><i>" Tell me and I forget. Teach me and I remember. Involve me and I learn. "</i></h5>**
 
-*<b>___ Thomas Edison ___</b>*
+*<b>___ Benjamin Franklin ___</b>*
