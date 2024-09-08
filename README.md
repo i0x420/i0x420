@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is the quality of our work which will please God, not the quantity. "</i></h5>**
+**<h5><i>" The world makes way for the man who knows where he is going. "</i></h5>**
 
-*<b>___ Mahatma Gandhi ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
