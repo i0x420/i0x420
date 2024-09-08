@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be. "</i></h5>**
+**<h5><i>" Always bear in mind that your own resolution to succeed is more important than any other. "</i></h5>**
 
-*<b>___ Ken Venturi ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
