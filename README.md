@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Always bear in mind that your own resolution to succeed is more important than any other. "</i></h5>**
+**<h5><i>" Don't talk about what you have done or what you are going to do. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Thomas Jefferson ___</b>*
