@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There surely is in human nature an inherent propensity to extract all the good out of all the evil. "</i></h5>**
+**<h5><i>" Imagination is the living power and prime agent of all human perception. "</i></h5>**
 
-*<b>___ Benjamin Haydon ___</b>*
+*<b>___ Samuel Taylor Coleridge ___</b>*
