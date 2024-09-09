@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success. "</i></h5>**
+**<h5><i>" Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i></h5>**
 
-*<b>___ John Locke ___</b>*
+*<b>___ Nikola Tesla ___</b>*
