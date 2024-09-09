@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i></h5>**
+**<h5><i>" Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present. "</i></h5>**
 
-*<b>___ Nikola Tesla ___</b>*
+*<b>___ Joan Rivers ___</b>*
