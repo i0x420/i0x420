@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Compassion and happiness are not a sign of weakness but a sign of strength. "</i></h5>**
+**<h5><i>" Computers are useless. They can only give you answers. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Pablo Picasso ___</b>*
