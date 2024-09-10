@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" Friendship increases in visiting friends, but in visiting them seldom. "</i></h5>**
+**<h5><i>" To improve is to change; to be perfect is to change often. "</i></h5>**
 
-*<b>___ Francis Bacon ___</b>*
+*<b>___ Winston Churchill ___</b>*
