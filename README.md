@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" The more you like yourself, the less you are like anyone else, which makes you unique. "</i></h5>**
+**<h5><i>" Your sacred space is where you can find yourself again and again. "</i></h5>**
 
-*<b>___ Walt Disney ___</b>*
+*<b>___ Joseph Campbell ___</b>*
