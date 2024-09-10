@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" There is no retirement for an artist, it's your way of living so there is no end to it. "</i></h5>**
+**<h5><i>" Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation. "</i></h5>**
 
-*<b>___ Henry Moore ___</b>*
+*<b>___ Samuel Richardson ___</b>*
