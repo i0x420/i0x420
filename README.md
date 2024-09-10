@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" It is impossible to experience one's death objectively and still carry a tune. "</i></h5>**
+**<h5><i>" Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort. "</i></h5>**
 
-*<b>___ Woody Allen ___</b>*
+*<b>___ Franklin D. Roosevelt ___</b>*
