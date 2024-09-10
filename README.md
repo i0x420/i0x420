@@ -1,5 +1,5 @@
 <h1 title="head"> Hey 👋, I'm Endale !</h1>
 
-**<h5><i>" To know oneself is to study oneself in action with another person. "</i></h5>**
+**<h5><i>" In friendship as well as love, ignorance very often contributes more to our happiness than knowledge. "</i></h5>**
 
-*<b>___ Bruce Lee ___</b>*
+*<b>___ François de La Rochefoucauld ___</b>*
